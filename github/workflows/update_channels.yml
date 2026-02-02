@@ -1,0 +1,32 @@
+name: Update IPTV Channels
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Har raat 12 baje khud chalega
+  workflow_dispatch:      # Aap manual bhi chala sakte ho
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Script
+      run: |
+        chmod +x tvfzf.sh
+        
+    - name: Run Script and Export Data
+      run: |
+        # Script ke andar se sirf links nikal kar file banana
+        curl -L -s "https://s.id/d9Base" > channels.m3u8
+        echo "IPTV List updated on $(date)" >> update_log.txt
+
+    - name: Commit and Push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add channels.m3u8 update_log.txt
+        git commit -m "Auto-update channels list" || echo "No changes to commit"
+        git push
