@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>STCREATIVE TV PLAYER</title>
+    <link href="https://vjs.zencdn.net/7.20.3/video-js.css" rel="stylesheet" />
+    <style>
+        body { background: #121212; color: white; font-family: sans-serif; text-align: center; }
+        .container { max-width: 800px; margin: auto; padding: 20px; }
+        #video-player { width: 100%; border-radius: 8px; background: black; }
+        .channel-list { margin-top: 20px; display: grid; grid-template-columns: 1fr 1fr; gap: 10px; height: 300px; overflow-y: auto; }
+        button { padding: 10px; background: #1e1e1e; color: white; border: 1px solid #333; cursor: pointer; border-radius: 5px; }
+        button:hover { background: #333; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📺 STCREATIVE-TV Online</h1>
+        <video id="my-video" class="video-js vjs-default-skin vjs-big-play-centered" controls preload="auto" width="640" height="360"></video>
+        
+        <h3>Select Channel:</h3>
+        <div id="buttons" class="channel-list">
+            </div>
+    </div>
+
+    <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
+    <script>
+        const player = videojs('my-video');
+        const channelList = [
+            { name: "France 24", url: "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8" },
+            { name: "CBS News", url: "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8" },
+            { name: "Red Bull TV", url: "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8" }
+        ];
+
+        const btnContainer = document.getElementById('buttons');
+        channelList.forEach(ch => {
+            let btn = document.createElement('button');
+            btn.innerText = ch.name;
+            btn.onclick = () => {
+                player.src({ type: 'application/x-mpegURL', src: ch.url });
+                player.play();
+            };
+            btnContainer.appendChild(btn);
+        });
+    </script>
+</body>
+</html>
