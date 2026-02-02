@@ -1,0 +1,35 @@
+name: STCREATIVE-TV Direct Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Har raat 12 baje auto-update hoga
+  workflow_dispatch:      # Manual button se chalane ke liye
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Read/Write permission zaroori hai file push karne ke liye
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Install Curl
+        run: sudo apt-get update && sudo apt-get install -y curl
+
+      - name: Generate M3U8 File
+        run: |
+          chmod +x tvfzf.sh
+          # Script ko export mode mein run karke nayi file banana
+          ./tvfzf.sh --export > live_channels.m3u8
+          echo "Updated on: $(date)" > last_update.txt
+
+      - name: Push New Files to Repo
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add live_channels.m3u8 last_update.txt
+          git commit -m "ST-TV: Auto update channel list" || echo "No changes to commit"
+          git push
