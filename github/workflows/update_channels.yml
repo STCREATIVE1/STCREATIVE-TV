@@ -1,32 +1,32 @@
-name: Update IPTV Channels
+name: STCREATIVE-TV Auto Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Har raat 12 baje khud chalega
-  workflow_dispatch:      # Aap manual bhi chala sakte ho
+    - cron: '0 0 * * *' # Daily at midnight
+  workflow_dispatch:      # Manual trigger button
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-    - name: Set up Script
-      run: |
-        chmod +x tvfzf.sh
-        
-    - name: Run Script and Export Data
-      run: |
-        # Script ke andar se sirf links nikal kar file banana
-        curl -L -s "https://s.id/d9Base" > channels.m3u8
-        echo "IPTV List updated on $(date)" >> update_log.txt
+      - name: Install Dependencies
+        run: sudo apt-get update && sudo apt-get install -y curl
 
-    - name: Commit and Push
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add channels.m3u8 update_log.txt
-        git commit -m "Auto-update channels list" || echo "No changes to commit"
-        git push
+      - name: Run Script & Generate Data
+        run: |
+          chmod +x tvfzf.sh
+          # Run the script in export mode
+          ./tvfzf.sh --export > live_channels.m3u8
+          echo "Last Updated: $(date)" > last_update.txt
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add live_channels.m3u8 last_update.txt
+          git commit -m "Automated update: New channel list generated" || echo "No changes to commit"
+          git push
+          
