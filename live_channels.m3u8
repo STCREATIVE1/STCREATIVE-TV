@@ -1,0 +1,293 @@
+#EXTM3U
+#EXTINF:-1, ST-TV: A&E TV
+http://fl1.moveonjoy.com/ANE/index.m3u8
+#EXTINF:-1, ST-TV: ABC
+https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+#EXTINF:-1, ST-TV: ACC Network
+http://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1, ST-TV: Adult Swim
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1, ST-TV: Altitude Sports
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/141447
+#EXTINF:-1, ST-TV: AMC
+http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1, ST-TV: Animal Planet
+http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1, ST-TV: Aspire
+http://fl1.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1, ST-TV: BBC America
+http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1, ST-TV: BBC World News
+http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1, ST-TV: BET
+http://mytvstream.net:8080/live/30550113/30550113/13702.m3u8
+#EXTINF:-1, ST-TV: Big Ten Network
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1, ST-TV: Bloomberg TV
+https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8
+#EXTINF:-1, ST-TV: Boomerang
+http://fl1.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1, ST-TV: Bounce TV
+http://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1, ST-TV: Bravo TV
+http://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1, ST-TV: Buzzr
+https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1, ST-TV: C-SPAN
+http://fl1.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1, ST-TV: Cartoon Network
+http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1, ST-TV: CBS
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/9934
+#EXTINF:-1, ST-TV: CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1, ST-TV: CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:-1, ST-TV: CBS Sports Network
+http://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1, ST-TV: CMT
+https://fl1.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1, ST-TV: CNBC
+https://fl1.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1, ST-TV: CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1, ST-TV: Comedy Central
+http://fl1.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1, ST-TV: Comedy TV
+https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
+#EXTINF:-1, ST-TV: Comet TV
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:-1, ST-TV: Cooking Channel
+https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1, ST-TV: Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1, ST-TV: Cozi TV
+https://fl1.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1, ST-TV: Crime & Investigation Network
+https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1, ST-TV: CW
+https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
+#EXTINF:-1, ST-TV: Discovery Channel
+http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1, ST-TV: Discovery Family Channel
+http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1, ST-TV: Discovery Life
+https://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1, ST-TV: Discovery Science
+https://fl1.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1, ST-TV: Disney
+https://fl1.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1, ST-TV: Disney XD
+http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1, ST-TV: E! Entertainment
+http://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1, ST-TV: ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1, ST-TV: ESPN News
+http://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1, ST-TV: ESPN U
+http://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1, ST-TV: ESPN2
+http://mytvstream.net:8080/live/30550113/30550113/2210.m3u8
+#EXTINF:-1, ST-TV: FDSN Detroit
+http://mytvstream.net:8080/live/30550113/30550113/20930.m3u8
+#EXTINF:-1, ST-TV: FDSN Florida
+http://mytvstream.net:8080/live/30550113/30550113/46794.m3u8
+#EXTINF:-1, ST-TV: FDSN Midwest
+http://mytvstream.net:8080/live/30550113/30550113/66795.m3u8
+#EXTINF:-1, ST-TV: FDSN North
+http://mytvstream.net:8080/live/30550113/30550113/58827.m3u8
+#EXTINF:-1, ST-TV: FDSN Ohio
+http://mytvstream.net:8080/live/30550113/30550113/17752.m3u8
+#EXTINF:-1, ST-TV: FDSN Oklahoma
+http://mytvstream.net:8080/live/30550113/30550113/20934.m3u8
+#EXTINF:-1, ST-TV: FDSN SoCal
+http://mytvstream.net:8080/live/30550113/30550113/221151.m3u8
+#EXTINF:-1, ST-TV: FDSN Southeast
+http://mytvstream.net:8080/live/30550113/30550113/2213.m3u8
+#EXTINF:-1, ST-TV: FDSN Southwest
+http://mytvstream.net:8080/live/30550113/30550113/21843.m3u8
+#EXTINF:-1, ST-TV: FDSN Sun
+http://mytvstream.net:8080/live/30550113/30550113/104917.m3u8
+#EXTINF:-1, ST-TV: FDSN West
+http://mytvstream.net:8080/live/30550113/30550113/20932.m3u8
+#EXTINF:-1, ST-TV: FDSN Wisconsin
+http://mytvstream.net:8080/live/30550113/30550113/78599.m3u8
+#EXTINF:-1, ST-TV: FIFA+ TV
+https://jmp2.uk/stvp-IN270000230
+#EXTINF:-1, ST-TV: Food Network
+http://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1, ST-TV: Fox
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
+#EXTINF:-1, ST-TV: Fox Business
+https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1, ST-TV: Fox News
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/130108
+#EXTINF:-1, ST-TV: Fox Sports 1
+http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1, ST-TV: Fox Sports 2
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/141467
+#EXTINF:-1, ST-TV: Freeform TV
+http://fl1.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1, ST-TV: FUSE
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1, ST-TV: FX
+http://fl1.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1, ST-TV: FX Movie Channel
+http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1, ST-TV: FXX
+https://fl1.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1, ST-TV: FYI TV
+http://fl1.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1, ST-TV: Game Show Network
+http://mytvstream.net:8080/live/30550113/30550113/120633.m3u8
+#EXTINF:-1, ST-TV: getTV
+http://fl1.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1, ST-TV: Golf Channel
+https://fl1.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1, ST-TV: Grit TV
+http://fl1.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1, ST-TV: Hallmark Channel
+http://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1, ST-TV: Hallmark Family
+https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1, ST-TV: Hallmark Mystery
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1, ST-TV: HBO
+http://fl1.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1, ST-TV: HBO 2
+http://fl1.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1, ST-TV: HBO Comedy
+http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1, ST-TV: HBO Family
+https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1, ST-TV: HBO Zone
+https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1, ST-TV: History Channel
+https://fl1.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:-1, ST-TV: HLN TV
+http://fl1.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1, ST-TV: Investigation Discovery
+https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1, ST-TV: ION TV
+http://fl1.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1, ST-TV: Lifetime
+http://fl1.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1, ST-TV: Lifetime Movie Network
+https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1, ST-TV: Marquee Sports Network
+https://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1, ST-TV: MLB Network
+https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1, ST-TV: MotorTrend TV
+http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1, ST-TV: MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:-1, ST-TV: MSNBC
+http://41.205.93.154/MSNBC/index.m3u8
+#EXTINF:-1, ST-TV: MTV
+http://fl1.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1, ST-TV: National Geographic
+http://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1, ST-TV: NBA TV
+http://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1, ST-TV: NBC
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
+#EXTINF:-1, ST-TV: NBC Sports Bay Area
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/257216
+#EXTINF:-1, ST-TV: NBC Sports Boston
+http://mytvstream.net:8080/live/30550113/30550113/20939.m3u8
+#EXTINF:-1, ST-TV: NBC Sports California
+http://mytvstream.net:8080/live/30550113/30550113/20940.m3u8
+#EXTINF:-1, ST-TV: NBC Sports NOW
+https://jmp2.uk/stvp-USBD420002446
+#EXTINF:-1, ST-TV: NBC Sports Philadelphia
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/136477
+#EXTINF:-1, ST-TV: NESN
+http://mytvstream.net:8080/live/30550113/30550113/46726.m3u8
+#EXTINF:-1, ST-TV: NewsNation
+http://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1, ST-TV: NFL Network
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+#EXTINF:-1, ST-TV: NFL RedZone
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/249239
+#EXTINF:-1, ST-TV: NHL Network
+http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
+#EXTINF:-1, ST-TV: Nickelodeon
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1, ST-TV: Nicktoons
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1, ST-TV: Outdoor Channel
+http://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1, ST-TV: Ovation
+https://fl1.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1, ST-TV: Oxygen
+https://fl1.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1, ST-TV: Paramount Network
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1, ST-TV: Pop TV
+https://fl1.moveonjoy.com/Pop_TV/index.m3u8
+#EXTINF:-1, ST-TV: Premier Sports 1
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117037
+#EXTINF:-1, ST-TV: Premier Sports 2
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117038
+#EXTINF:-1, ST-TV: Reelz Channel
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
+#EXTINF:-1, ST-TV: SEC Network
+http://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
+#EXTINF:-1, ST-TV: Showtime
+http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1, ST-TV: Smithsonian Channel
+http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1, ST-TV: Sony Movie Channel
+http://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1, ST-TV: Space City Home Network
+http://mytvstream.net:8080/live/30550113/30550113/213668.m3u8
+#EXTINF:-1, ST-TV: Spectrum SportsNet LA Dodgers
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/141497
+#EXTINF:-1, ST-TV: Spectrum SportsNet Lakers
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/141498
+#EXTINF:-1, ST-TV: Sportsnet 360
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/21635
+#EXTINF:-1, ST-TV: Sportsnet East
+http://mytvstream.net:8080/live/30550113/30550113/57298.m3u8
+#EXTINF:-1, ST-TV: SportsNet New York
+https://fl1.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1, ST-TV: Sportsnet One
+http://mytvstream.net:8080/live/30550113/30550113/57297.m3u8
+#EXTINF:-1, ST-TV: Sportsnet Ontario
+https://stream.decentdoubts.net/801/index.m3u8?token=cTREYWhzaWIxOWlhZ3BpcWh0MkduTVdzcGNpdXk2eURxN21hbktxa200TERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
+#EXTINF:-1, ST-TV: SportsNet Pittsburgh
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/141448
+#EXTINF:-1, ST-TV: Starz
+http://fl1.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1, ST-TV: Syfy
+http://fl1.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1, ST-TV: TBS
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1, ST-TV: Tennis Channel
+https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1, ST-TV: The Weather Channel
+http://mytvstream.net:8080/live/30550113/30550113/18926.m3u8
+#EXTINF:-1, ST-TV: TLC
+http://fl1.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1, ST-TV: TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1, ST-TV: truTV
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1, ST-TV: TSN1
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/142475
+#EXTINF:-1, ST-TV: TSN2
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/142476
+#EXTINF:-1, ST-TV: Turner Classic Movies
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1, ST-TV: TV Land
+https://fl1.moveonjoy.com/TV_LAND/index.m3u8
+#EXTINF:-1, ST-TV: TV One
+https://fl1.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1, ST-TV: USA East
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/129973
+#EXTINF:-1, ST-TV: Vice TV
+https://fl1.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1, ST-TV: YES Network
+https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
