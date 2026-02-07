@@ -38,7 +38,7 @@ http://fl1.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1, ST-TV: Cartoon Network
 http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: CBS
-http://mytvstream.net:8080/live/bn80NG/909467/120749.m3u8
+https://fl1.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8
 #EXTINF:-1, ST-TV: CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1, ST-TV: CBS Sports Golazo Network
