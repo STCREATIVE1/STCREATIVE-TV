@@ -82,7 +82,7 @@ http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1, ST-TV: E! Entertainment
 http://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
-http://41.205.93.154/ESPN/index.m3u8
+http://mytvstream.net:8080/live/bn80NG/909467/14197.m3u8
 #EXTINF:-1, ST-TV: ESPN News
 http://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1, ST-TV: ESPN U
@@ -136,7 +136,7 @@ http://fl1.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1, ST-TV: FX Movie Channel
 http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1, ST-TV: FXX
-https://fl1.moveonjoy.com/FXX/index.m3u8
+http://mytvstream.net:8080/live/bn80NG/909467/46699.m3u8
 #EXTINF:-1, ST-TV: FYI TV
 http://fl1.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1, ST-TV: Game Show Network
@@ -228,9 +228,9 @@ https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Pop TV
 https://fl1.moveonjoy.com/Pop_TV/index.m3u8
 #EXTINF:-1, ST-TV: Premier Sports 1
-http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117037
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5029.ts
 #EXTINF:-1, ST-TV: Premier Sports 2
-http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117038
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5030.ts
 #EXTINF:-1, ST-TV: Reelz Channel
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:-1, ST-TV: SEC Network
@@ -248,7 +248,7 @@ http://mytvstream.net:8080/live/bn80NG/909467/31636.m3u8
 #EXTINF:-1, ST-TV: Spectrum SportsNet Lakers
 http://mytvstream.net:8080/live/bn80NG/909467/20946.m3u8
 #EXTINF:-1, ST-TV: Sportsnet 360
-http://mytvstream.net:8080/live/bn80NG/909467/2219.m3u8
+https://stream.decentdoubts.net/803/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
 #EXTINF:-1, ST-TV: Sportsnet East
 http://mytvstream.net:8080/live/bn80NG/909467/57298.m3u8
 #EXTINF:-1, ST-TV: SportsNet New York
