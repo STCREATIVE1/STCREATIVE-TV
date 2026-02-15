@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elite Stream Player - All-in-One</title>
+
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/shaka-player/4.3.5/controls.css">
+
+    <style>
+        /* Player Styling */
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #050505;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden;
+            font-family: sans-serif;
+        }
+
+        .video-container {
+            width: 100%;
+            height: 100%;
+            max-width: 100vw;
+            max-height: 100vh;
+            background-color: #000;
+        }
+
+        video {
+            width: 100%;
+            height: 100%;
+        }
+
+        /* Customizing Shaka UI colors to match your brand */
+        .shaka-video-container .shaka-controls-container .shaka-bottom-controls {
+            display: flex;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="video-container" data-shaka-player-container>
+        <video autoplay data-shaka-player id="video" poster="https://via.placeholder.com/1920x1080?text=Elite+Stream+Loading..."></video>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/shaka-player/4.3.5/shaka-player.compiled.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/shaka-player/4.3.5/shaka-player.ui.js"></script>
+
+    <script>
+        // Data integration
+        const manifestUri = 'https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=f94cfb02-d413-48c0-8d16-cf35ef2d6442';
+        
+        // ClearKey DRM Keys
+        const KID = 'ae7076b647133606b704d33e4cef5134';
+        const KEY = '810251515584cf71216d9a2d1ebf04bb';
+
+        async function initPlayer() {
+            // Elements select karna
+            const video = document.getElementById('video');
+            const ui = video['ui'];
+            const controls = ui.getControls();
+            const player = controls.getPlayer();
+
+            // ClearKey DRM Configuration
+            player.configure({
+                drm: {
+                    clearKeys: {
+                        [KID]: KEY
+                    }
+                },
+                streaming: {
+                    lowLatencyMode: true,
+                    jumpLargeGaps: true
+                }
+            });
+
+            // Window level access (debugging ke liye)
+            window.player = player;
+            window.ui = ui;
+
+            // Error listener
+            player.addEventListener('error', (event) => {
+                console.error('Player Error:', event.detail);
+            });
+
+            try {
+                // Load the stream
+                await player.load(manifestUri);
+                console.log('Stream loaded successfully!');
+            } catch (error) {
+                console.error('Error loading manifest:', error);
+            }
+        }
+
+        // Shaka UI load hone par start karein
+        document.addEventListener('shaka-ui-loaded', initPlayer);
+        
+        // Error handling for UI
+        document.addEventListener('shaka-ui-load-failed', (error) => {
+            console.error('UI failed to load', error);
+        });
+    </script>
+</body>
+</html>
