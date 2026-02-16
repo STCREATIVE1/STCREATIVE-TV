@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1, ST-TV: A&E TV
-http://mytvstream.net:8080/live/30550113/30550113/59056.m3u8
+http://41.205.93.154/AandE/index.m3u8
 #EXTINF:-1, ST-TV: ABC
 http://mytvstream.net:8080/live/30550113/30550113/120952.m3u8
 #EXTINF:-1, ST-TV: ACC Network
-http://mytvstream.net:8080/live/30550113/30550113/9273.m3u8
+http://23.239.31.26:8989/accnetwork/index.m3u8
 #EXTINF:-1, ST-TV: Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1, ST-TV: Altitude Sports
 http://mytvstream.net:8080/live/30550113/30550113/79545.m3u8
 #EXTINF:-1, ST-TV: AMC
-http://mytvstream.net:8080/live/30550113/30550113/18925.m3u8
+http://41.205.93.154/AMC/index.m3u8
 #EXTINF:-1, ST-TV: Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1, ST-TV: Aspire
@@ -82,7 +82,7 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1, ST-TV: E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
-http://41.205.93.154/ESPN/index.m3u8
+http://snowbank.houseinventer.com/6500/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 #EXTINF:-1, ST-TV: ESPN News
 http://mytvstream.net:8080/live/30550113/30550113/11707.m3u8
 #EXTINF:-1, ST-TV: ESPN U
@@ -124,9 +124,9 @@ http://mytvstream.net:8080/live/30550113/30550113/17639.m3u8
 #EXTINF:-1, ST-TV: Fox News
 http://mytvstream.net:8080/live/30550113/30550113/1818.m3u8
 #EXTINF:-1, ST-TV: Fox Sports 1
-http://mytvstream.net:8080/live/30550113/30550113/1846.m3u8
+http://79.127.138.221:443/3368/video.m3u8?token=3d43ae750ba5e9814f074f919b8e2f60
 #EXTINF:-1, ST-TV: Fox Sports 2
-http://mytvstream.net:8080/live/30550113/30550113/1847.m3u8
+http://79.127.138.221:443/3367/video.m3u8?token=5ad742b0838080b87b1ea87c1394c5f4
 #EXTINF:-1, ST-TV: Freeform TV
 http://mytvstream.net:8080/live/30550113/30550113/13370.m3u8
 #EXTINF:-1, ST-TV: FUSE
@@ -172,7 +172,7 @@ http://mytvstream.net:8080/live/30550113/30550113/46810.m3u8
 #EXTINF:-1, ST-TV: ION TV
 http://mytvstream.net:8080/live/30550113/30550113/9297.m3u8
 #EXTINF:-1, ST-TV: Lifetime
-http://mytvstream.net:8080/live/30550113/30550113/46713.m3u8
+http://41.205.93.154/LIFETIME/index.m3u8
 #EXTINF:-1, ST-TV: Lifetime Movie Network
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1, ST-TV: Marquee Sports Network
@@ -276,9 +276,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:-1, ST-TV: truTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: TSN1
-http://mytvstream.net:8080/live/30550113/30550113/57292.m3u8
+https://stream.decentdoubts.net/805/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1
 #EXTINF:-1, ST-TV: TSN2
-http://mytvstream.net:8080/live/30550113/30550113/47442.m3u8
+https://stream.decentdoubts.net/806/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1
 #EXTINF:-1, ST-TV: Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1, ST-TV: TV Land
