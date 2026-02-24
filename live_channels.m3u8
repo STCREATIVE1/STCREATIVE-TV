@@ -84,7 +84,7 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129866.ts
 #EXTINF:-1, ST-TV: Discovery Science
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129867.ts
 #EXTINF:-1, ST-TV: Disney
-http://fl12.moveonjoy.com/DISNEY/index.m3u8
+http://104.255.88.155/disney/index.m3u8
 #EXTINF:-1, ST-TV: Disney XD
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/130092.ts
 #EXTINF:-1, ST-TV: E! Entertainment
@@ -98,9 +98,9 @@ http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1, ST-TV: ESPN2
 http://snowbank.houseinventer.com/6501/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 #EXTINF:-1, ST-TV: FDSN Detroit
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/254459.ts
+http://mytvstream.net:8080/live/30550113/30550113/20930.m3u8
 #EXTINF:-1, ST-TV: FDSN Florida
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/254460.ts
+http://mytvstream.net:8080/live/30550113/30550113/46794.m3u8
 #EXTINF:-1, ST-TV: FDSN Midwest
 http://mytvstream.net:8080/live/30550113/30550113/66795.m3u8
 #EXTINF:-1, ST-TV: FDSN North
@@ -110,17 +110,17 @@ http://mytvstream.net:8080/live/30550113/30550113/17752.m3u8
 #EXTINF:-1, ST-TV: FDSN Oklahoma
 http://mytvstream.net:8080/live/30550113/30550113/20934.m3u8
 #EXTINF:-1, ST-TV: FDSN SoCal
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/254465.ts
+http://mytvstream.net:8080/live/30550113/30550113/221151.m3u8
 #EXTINF:-1, ST-TV: FDSN Southeast
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/254466.ts
+http://mytvstream.net:8080/live/30550113/30550113/2213.m3u8
 #EXTINF:-1, ST-TV: FDSN Southwest
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/254469.ts
+http://mytvstream.net:8080/live/30550113/30550113/21843.m3u8
 #EXTINF:-1, ST-TV: FDSN Sun
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/254467.ts
+http://mytvstream.net:8080/live/30550113/30550113/104917.m3u8
 #EXTINF:-1, ST-TV: FDSN West
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/254471.ts
+http://mytvstream.net:8080/live/30550113/30550113/20932.m3u8
 #EXTINF:-1, ST-TV: FDSN Wisconsin
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/254470.ts
+http://mytvstream.net:8080/live/30550113/30550113/78599.m3u8
 #EXTINF:-1, ST-TV: FIFA+ TV
 https://jmp2.uk/stvp-IN270000230
 #EXTINF:-1, ST-TV: Food Network
@@ -140,11 +140,11 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/11205.ts
 #EXTINF:-1, ST-TV: FUSE
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1, ST-TV: FX
-http://fl12.moveonjoy.com/FX/index.m3u8
+http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1, ST-TV: FX Movie Channel
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129878.ts
 #EXTINF:-1, ST-TV: FXX
-http://fl12.moveonjoy.com/FXX/index.m3u8
+http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1, ST-TV: FYI TV
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/130105.ts
 #EXTINF:-1, ST-TV: Game Show Network
@@ -166,7 +166,7 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1, ST-TV: HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1, ST-TV: HBO Comedy
-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+http://hardcoremedia.xyz/live/rabdsbmz/3731346838/257141.ts
 #EXTINF:-1, ST-TV: HBO Family
 http://mytvstream.net:8080/live/30550113/30550113/17772.m3u8
 #EXTINF:-1, ST-TV: HBO Zone
@@ -196,13 +196,13 @@ http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1, ST-TV: MSNBC
 http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1, ST-TV: MTV
-http://fl12.moveonjoy.com/MTV/index.m3u8
+http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1, ST-TV: National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1, ST-TV: NBA TV
 http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1, ST-TV: NBC
-http://stream.cammonitorplus.net/1812/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+http://stream.cammonitorplus.net/1842/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 #EXTINF:-1, ST-TV: NBC Sports Bay Area
 http://mytvstream.net:8080/live/30550113/30550113/9900.m3u8
 #EXTINF:-1, ST-TV: NBC Sports Boston
@@ -300,7 +300,7 @@ https://stream.decentdoubts.net/806/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ
 #EXTINF:-1, ST-TV: Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1, ST-TV: TV Land
-http://fl12.moveonjoy.com/TV_LAND/index.m3u8
+http://hardcoremedia.xyz/live/rabdsbmz/3731346838/130158.ts
 #EXTINF:-1, ST-TV: TV One
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129971.ts
 #EXTINF:-1, ST-TV: USA East
@@ -308,6 +308,6 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129973.ts
 #EXTINF:-1, ST-TV: Vice TV
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129976.ts
 #EXTINF:-1, ST-TV: We Tv
-http://fl12.moveonjoy.com/WE_TV/index.m3u8
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1, ST-TV: YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
