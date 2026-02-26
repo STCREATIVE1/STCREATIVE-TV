@@ -56,7 +56,7 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts
 #EXTINF:-1, ST-TV: CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1, ST-TV: CNBC
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/8341.ts
+http://41.205.93.154/CNBC/index.m3u8
 #EXTINF:-1, ST-TV: CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: Comedy Central
@@ -74,7 +74,7 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129858.ts
 #EXTINF:-1, ST-TV: Crime & Investigation Network
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129860.ts
 #EXTINF:-1, ST-TV: CW
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/117129.ts
+http://hardcoremedia.xyz/live/rabdsbmz/3731346838/117093.ts
 #EXTINF:-1, ST-TV: Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1, ST-TV: Discovery Family Channel
@@ -92,7 +92,7 @@ http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
 http://snowbank.houseinventer.com/6500/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 #EXTINF:-1, ST-TV: ESPN News
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/136160.ts
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/1003.ts
 #EXTINF:-1, ST-TV: ESPN U
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1, ST-TV: ESPN2
@@ -132,9 +132,9 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/8258.ts
 #EXTINF:-1, ST-TV: Fox News
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/136761.ts
 #EXTINF:-1, ST-TV: Fox Sports 1
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/141466.ts
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3420.ts
 #EXTINF:-1, ST-TV: Fox Sports 2
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/141467.ts
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/55.ts
 #EXTINF:-1, ST-TV: Freeform TV
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/11205.ts
 #EXTINF:-1, ST-TV: FUSE
@@ -152,7 +152,7 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/130111.ts
 #EXTINF:-1, ST-TV: getTV
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129884.ts
 #EXTINF:-1, ST-TV: Golf Channel
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129706.ts
+http://hardcoremedia.xyz/live/rabdsbmz/3731346838/258721.ts
 #EXTINF:-1, ST-TV: Grit TV
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129885.ts
 #EXTINF:-1, ST-TV: Hallmark Channel
@@ -166,7 +166,7 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1, ST-TV: HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1, ST-TV: HBO Comedy
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/257141.ts
+http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129990.ts
 #EXTINF:-1, ST-TV: HBO Family
 http://mytvstream.net:8080/live/30550113/30550113/17772.m3u8
 #EXTINF:-1, ST-TV: HBO Zone
@@ -176,7 +176,7 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129892.ts
 #EXTINF:-1, ST-TV: HLN TV
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1, ST-TV: INSP
-http://fl12.moveonjoy.com/INSP/index.m3u8
+http://hardcoremedia.xyz/live/rabdsbmz/3731346838/130121.ts
 #EXTINF:-1, ST-TV: Investigation Discovery
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129899.ts
 #EXTINF:-1, ST-TV: ION TV
@@ -210,7 +210,7 @@ http://mytvstream.net:8080/live/30550113/30550113/20939.m3u8
 #EXTINF:-1, ST-TV: NBC Sports California
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/136474.ts
 #EXTINF:-1, ST-TV: NBC Sports NOW
-https://jmp2.uk/stvp-USBD420002446
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/1001.ts
 #EXTINF:-1, ST-TV: NBC Sports Philadelphia
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/136477.ts
 #EXTINF:-1, ST-TV: NESN
@@ -253,6 +253,12 @@ http://212.102.60.231/REELZ/index.m3u8
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1, ST-TV: Showtime Extreme
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3410.ts
+#EXTINF:-1, ST-TV: Sky Family
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/274.ts
+#EXTINF:-1, ST-TV: Sky Sports News
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/23.ts
 #EXTINF:-1, ST-TV: Smithsonian Channel
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129953.ts
 #EXTINF:-1, ST-TV: Sony Movie Channel
@@ -309,5 +315,7 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129973.ts
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129976.ts
 #EXTINF:-1, ST-TV: We Tv
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:-1, ST-TV: Willow Cricket
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/215.ts
 #EXTINF:-1, ST-TV: YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
