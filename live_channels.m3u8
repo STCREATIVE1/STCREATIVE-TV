@@ -28,7 +28,7 @@ http://212.102.60.231/BET/index.m3u8
 #EXTINF:-1, ST-TV: Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1, ST-TV: Bloomberg TV
-https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8
+http://41.205.93.154/BLOOMBERG/index.m3u8
 #EXTINF:-1, ST-TV: Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1, ST-TV: Bounce TV
@@ -86,7 +86,7 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129867.ts
 #EXTINF:-1, ST-TV: Disney
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/257087.ts
 #EXTINF:-1, ST-TV: Disney XD
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/130092.ts
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1, ST-TV: E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
@@ -124,7 +124,7 @@ http://mytvstream.net:8080/live/bn80NG/909467/78599.m3u8
 #EXTINF:-1, ST-TV: FIFA+ TV
 https://jmp2.uk/stvp-IN270000230
 #EXTINF:-1, ST-TV: Food Network
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129872.ts
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Fox
 http://stream.cammonitorplus.net/1772/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 #EXTINF:-1, ST-TV: Fox Business
@@ -166,11 +166,11 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1, ST-TV: HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1, ST-TV: HBO Comedy
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129990.ts
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:-1, ST-TV: HBO Family
 http://mytvstream.net:8080/live/bn80NG/909467/17772.m3u8
 #EXTINF:-1, ST-TV: HBO Zone
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129995.ts
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1, ST-TV: History Channel
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129892.ts
 #EXTINF:-1, ST-TV: HLN TV
@@ -202,7 +202,7 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1, ST-TV: NBA TV
 http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1, ST-TV: NBC
-http://stream.cammonitorplus.net/1842/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+http://stream.cammonitorplus.net/1765/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 #EXTINF:-1, ST-TV: NBC Sports Bay Area
 http://mytvstream.net:8080/live/bn80NG/909467/9900.m3u8
 #EXTINF:-1, ST-TV: NBC Sports Boston
@@ -214,7 +214,7 @@ https://starshare.st/live/P4B9TB9xR8/humongous2tonight/1001.ts
 #EXTINF:-1, ST-TV: NBC Sports Philadelphia
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/136477.ts
 #EXTINF:-1, ST-TV: NESN
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/141484.ts
+http://23.237.104.106:8080/USA_NESN/index.m3u8
 #EXTINF:-1, ST-TV: NewsNation
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129931.ts
 #EXTINF:-1, ST-TV: NFL Network
@@ -312,9 +312,9 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129971.ts
 #EXTINF:-1, ST-TV: USA East
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129973.ts
 #EXTINF:-1, ST-TV: VH1
-https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3414.ts
+http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1, ST-TV: Vice TV
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129976.ts
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1, ST-TV: We Tv
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1, ST-TV: Willow Cricket
