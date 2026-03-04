@@ -38,7 +38,7 @@ http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1, ST-TV: Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: C-SPAN
-http://mytvstream.net:8080/live/bn80NG/909467/136589.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/136589.m3u8
 #EXTINF:-1, ST-TV: Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: CBS
@@ -84,7 +84,7 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129866.ts
 #EXTINF:-1, ST-TV: Discovery Science
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129867.ts
 #EXTINF:-1, ST-TV: Disney
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/257087.ts
+http://89.105.221.127/Disney/index.m3u8?token=test
 #EXTINF:-1, ST-TV: Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1, ST-TV: E! Entertainment
@@ -98,29 +98,29 @@ http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1, ST-TV: ESPN2
 http://snowbank.houseinventer.com/6501/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 #EXTINF:-1, ST-TV: FDSN Detroit
-http://mytvstream.net:8080/live/bn80NG/909467/20930.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/20930.m3u8
 #EXTINF:-1, ST-TV: FDSN Florida
-http://mytvstream.net:8080/live/bn80NG/909467/46794.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/46794.m3u8
 #EXTINF:-1, ST-TV: FDSN Midwest
-http://mytvstream.net:8080/live/bn80NG/909467/66795.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/66795.m3u8
 #EXTINF:-1, ST-TV: FDSN North
-http://mytvstream.net:8080/live/bn80NG/909467/58827.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/58827.m3u8
 #EXTINF:-1, ST-TV: FDSN Ohio
-http://mytvstream.net:8080/live/bn80NG/909467/17752.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/17752.m3u8
 #EXTINF:-1, ST-TV: FDSN Oklahoma
-http://mytvstream.net:8080/live/bn80NG/909467/20934.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/20934.m3u8
 #EXTINF:-1, ST-TV: FDSN SoCal
-http://mytvstream.net:8080/live/bn80NG/909467/221151.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/221151.m3u8
 #EXTINF:-1, ST-TV: FDSN Southeast
-http://mytvstream.net:8080/live/bn80NG/909467/2213.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/2213.m3u8
 #EXTINF:-1, ST-TV: FDSN Southwest
-http://mytvstream.net:8080/live/bn80NG/909467/21843.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/21843.m3u8
 #EXTINF:-1, ST-TV: FDSN Sun
-http://mytvstream.net:8080/live/bn80NG/909467/104917.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/104917.m3u8
 #EXTINF:-1, ST-TV: FDSN West
-http://mytvstream.net:8080/live/bn80NG/909467/20932.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/20932.m3u8
 #EXTINF:-1, ST-TV: FDSN Wisconsin
-http://mytvstream.net:8080/live/bn80NG/909467/78599.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/78599.m3u8
 #EXTINF:-1, ST-TV: FIFA+ TV
 https://jmp2.uk/stvp-IN270000230
 #EXTINF:-1, ST-TV: Food Network
@@ -168,7 +168,7 @@ http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1, ST-TV: HBO Comedy
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:-1, ST-TV: HBO Family
-http://mytvstream.net:8080/live/bn80NG/909467/17772.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/17772.m3u8
 #EXTINF:-1, ST-TV: HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1, ST-TV: History Channel
@@ -204,9 +204,9 @@ http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1, ST-TV: NBC
 http://stream.cammonitorplus.net/1765/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 #EXTINF:-1, ST-TV: NBC Sports Bay Area
-http://mytvstream.net:8080/live/bn80NG/909467/9900.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/9900.m3u8
 #EXTINF:-1, ST-TV: NBC Sports Boston
-http://mytvstream.net:8080/live/bn80NG/909467/20939.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/20939.m3u8
 #EXTINF:-1, ST-TV: NBC Sports California
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/136474.ts
 #EXTINF:-1, ST-TV: NBC Sports NOW
