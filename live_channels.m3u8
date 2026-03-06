@@ -2,7 +2,7 @@
 #EXTINF:-1, ST-TV: A&E TV
 http://41.205.93.154/AandE/index.m3u8
 #EXTINF:-1, ST-TV: ABC
-http://stream.cammonitorplus.net/1740/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+http://lunar.pm:8080/leslie/snook/64460
 #EXTINF:-1, ST-TV: ACC Network
 http://23.239.31.26:8989/accnetwork/index.m3u8
 #EXTINF:-1, ST-TV: Adult Swim
@@ -18,7 +18,7 @@ http://mytvstream.net:8080/live/30550113/30550113/20180.m3u8
 #EXTINF:-1, ST-TV: Aspire
 http://mytvstream.net:8080/live/30550113/30550113/21927.m3u8
 #EXTINF:-1, ST-TV: AXS TV
-http://mytvstream.net:8080/live/30550113/30550113/48324.m3u8
+http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1, ST-TV: BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1, ST-TV: BBC World News
@@ -34,7 +34,7 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1, ST-TV: Bounce TV
 http://212.102.60.231/BOUNCE_TV/index.m3u8
 #EXTINF:-1, ST-TV: Bravo TV
-http://41.205.93.154/BRAVO/index.m3u8
+http://104.255.88.155/bravo/index.m3u8
 #EXTINF:-1, ST-TV: Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: C-SPAN
@@ -42,7 +42,7 @@ http://mytvstream.net:8080/live/30550113/30550113/136589.m3u8
 #EXTINF:-1, ST-TV: Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: CBS
-http://stream.cammonitorplus.net/1810/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+http://lunar.pm:8080/leslie/snook/64533
 #EXTINF:-1, ST-TV: CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1, ST-TV: CBS Sports Golazo Network
@@ -56,7 +56,7 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts
 #EXTINF:-1, ST-TV: CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1, ST-TV: CNBC
-http://41.205.93.154/CNBC/index.m3u8
+https://restream-live.realiptv.to/Lucas123/Lucas123/2610
 #EXTINF:-1, ST-TV: CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: Comedy Central
@@ -72,7 +72,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo
 #EXTINF:-1, ST-TV: Cozi TV
 http://mytvstream.net:8080/live/30550113/30550113/11868.m3u8
 #EXTINF:-1, ST-TV: Crime & Investigation Network
-http://mytvstream.net:8080/live/30550113/30550113/53689.m3u8
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
 #EXTINF:-1, ST-TV: CW
 http://mytvstream.net:8080/live/30550113/30550113/120889.m3u8
 #EXTINF:-1, ST-TV: Discovery Channel
@@ -126,11 +126,11 @@ https://jmp2.uk/stvp-IN270000230
 #EXTINF:-1, ST-TV: Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Fox
-http://stream.cammonitorplus.net/1772/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+http://lunar.pm:8080/leslie/snook/64666
 #EXTINF:-1, ST-TV: Fox Business
 http://mytvstream.net:8080/live/30550113/30550113/17639.m3u8
 #EXTINF:-1, ST-TV: Fox News
-http://mytvstream.net:8080/live/30550113/30550113/1818.m3u8
+http://104.255.88.155/foxnews/index.m3u8
 #EXTINF:-1, ST-TV: Fox Sports 1
 https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3420.ts
 #EXTINF:-1, ST-TV: Fox Sports 2
@@ -182,13 +182,13 @@ http://mytvstream.net:8080/live/30550113/30550113/46810.m3u8
 #EXTINF:-1, ST-TV: ION TV
 http://mytvstream.net:8080/live/30550113/30550113/9297.m3u8
 #EXTINF:-1, ST-TV: Lifetime
-http://41.205.93.154/LIFETIME/index.m3u8
+https://restream-live.realiptv.to/Lucas123/Lucas123/645914
 #EXTINF:-1, ST-TV: Lifetime Movie Network
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1, ST-TV: Marquee Sports Network
 http://mytvstream.net:8080/live/30550113/30550113/13379.m3u8
 #EXTINF:-1, ST-TV: MLB Network
-http://stream.cammonitorplus.net/337626/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+http://89.105.221.127/MLBNetwork/mpegts?token=test
 #EXTINF:-1, ST-TV: MotorTrend TV
 http://mytvstream.net:8080/live/30550113/30550113/10399.m3u8
 #EXTINF:-1, ST-TV: MSG
@@ -202,7 +202,7 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1, ST-TV: NBA TV
 http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1, ST-TV: NBC
-http://stream.cammonitorplus.net/1765/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+http://lunar.pm:8080/leslie/snook/64782
 #EXTINF:-1, ST-TV: NBC Sports Bay Area
 http://mytvstream.net:8080/live/30550113/30550113/9900.m3u8
 #EXTINF:-1, ST-TV: NBC Sports Boston
@@ -222,7 +222,7 @@ https://stream.decentdoubts.net/6128524/index.m3u8?token=Mm9QYnQ1ZkpyYWllaEoydWh
 #EXTINF:-1, ST-TV: NFL RedZone
 https://starshare.st/live/P4B9TB9xR8/humongous2tonight/23550.ts
 #EXTINF:-1, ST-TV: NHL Network
-http://mytvstream.net:8080/live/30550113/30550113/20179.m3u8
+https://restream-live.realiptv.to/Lucas123/Lucas123/3672
 #EXTINF:-1, ST-TV: Nick Jr
 http://mytvstream.net:8080/live/30550113/30550113/46710.m3u8
 #EXTINF:-1, ST-TV: Nickelodeon
@@ -230,11 +230,11 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1, ST-TV: Nicktoons
 http://212.102.60.231/NICKTOONS/index.m3u8
 #EXTINF:-1, ST-TV: Outdoor Channel
-http://mytvstream.net:8080/live/30550113/30550113/9244.m3u8
+http://23.237.104.106:8080/USA_OUTDOOR/mpegts
 #EXTINF:-1, ST-TV: Ovation
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129935.ts
 #EXTINF:-1, ST-TV: Oxygen
-http://mytvstream.net:8080/live/30550113/30550113/9245.m3u8
+http://89.105.221.127/Oxygen/index.m3u8?token=test
 #EXTINF:-1, ST-TV: Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: PBS Kids
@@ -286,7 +286,7 @@ http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1, ST-TV: Starz Encore Classic
 http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8
 #EXTINF:-1, ST-TV: Syfy
-http://41.205.93.154/SYFY/index.m3u8
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1, ST-TV: TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: Tennis Channel
@@ -294,7 +294,7 @@ http://mytvstream.net:8080/live/30550113/30550113/20184.m3u8
 #EXTINF:-1, ST-TV: The Weather Channel
 http://mytvstream.net:8080/live/30550113/30550113/18926.m3u8
 #EXTINF:-1, ST-TV: TLC
-http://mytvstream.net:8080/live/30550113/30550113/46691.m3u8
+http://89.105.221.127/tlc/mpegts?token=test
 #EXTINF:-1, ST-TV: TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: truTV
