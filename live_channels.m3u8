@@ -2,7 +2,7 @@
 #EXTINF:-1, ST-TV: A&E TV
 http://41.205.93.154/AandE/index.m3u8
 #EXTINF:-1, ST-TV: ABC
-http://lunar.pm:8080/leslie/snook/64460
+https://restream-live.realiptv.to/Lucas123/Lucas123/112234
 #EXTINF:-1, ST-TV: ACC Network
 http://23.239.31.26:8989/accnetwork/index.m3u8
 #EXTINF:-1, ST-TV: Adult Swim
@@ -10,7 +10,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 #EXTINF:-1, ST-TV: Altitude Sports
 http://mytvstream.net:8080/live/30550113/30550113/79545.m3u8
 #EXTINF:-1, ST-TV: AMC
-http://41.205.93.154/AMC/index.m3u8
+http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1, ST-TV: Animal Planet
 http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1, ST-TV: Antenna TV
@@ -38,11 +38,11 @@ http://104.255.88.155/bravo/index.m3u8
 #EXTINF:-1, ST-TV: Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: C-SPAN
-http://mytvstream.net:8080/live/30550113/30550113/136589.m3u8
+https://restream-live.realiptv.to/Lucas123/Lucas123/92792
 #EXTINF:-1, ST-TV: Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: CBS
-http://lunar.pm:8080/leslie/snook/64533
+https://restream-live.realiptv.to/Lucas123/Lucas123/2631
 #EXTINF:-1, ST-TV: CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1, ST-TV: CBS Sports Golazo Network
@@ -56,7 +56,7 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts
 #EXTINF:-1, ST-TV: CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1, ST-TV: CNBC
-https://restream-live.realiptv.to/Lucas123/Lucas123/2610
+http://mytvstream.net:8080/live/30550113/30550113/9815.m3u8
 #EXTINF:-1, ST-TV: CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: Comedy Central
@@ -126,7 +126,7 @@ https://jmp2.uk/stvp-IN270000230
 #EXTINF:-1, ST-TV: Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Fox
-http://lunar.pm:8080/leslie/snook/64666
+https://restream-live.realiptv.to/Lucas123/Lucas123/2544
 #EXTINF:-1, ST-TV: Fox Business
 http://mytvstream.net:8080/live/30550113/30550113/17639.m3u8
 #EXTINF:-1, ST-TV: Fox News
@@ -166,7 +166,7 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1, ST-TV: HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1, ST-TV: HBO Comedy
-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/17773.m3u8
 #EXTINF:-1, ST-TV: HBO Family
 http://mytvstream.net:8080/live/30550113/30550113/17772.m3u8
 #EXTINF:-1, ST-TV: HBO Zone
@@ -182,7 +182,7 @@ http://mytvstream.net:8080/live/30550113/30550113/46810.m3u8
 #EXTINF:-1, ST-TV: ION TV
 http://mytvstream.net:8080/live/30550113/30550113/9297.m3u8
 #EXTINF:-1, ST-TV: Lifetime
-https://restream-live.realiptv.to/Lucas123/Lucas123/645914
+http://41.205.93.154/LIFETIME/index.m3u8
 #EXTINF:-1, ST-TV: Lifetime Movie Network
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1, ST-TV: Marquee Sports Network
@@ -202,7 +202,7 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1, ST-TV: NBA TV
 http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1, ST-TV: NBC
-http://lunar.pm:8080/leslie/snook/64782
+https://restream-live.realiptv.to/Lucas123/Lucas123/89714
 #EXTINF:-1, ST-TV: NBC Sports Bay Area
 http://mytvstream.net:8080/live/30550113/30550113/9900.m3u8
 #EXTINF:-1, ST-TV: NBC Sports Boston
@@ -254,7 +254,7 @@ http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:-1, ST-TV: Showtime Extreme
-https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3410.ts
+http://mytvstream.net:8080/live/30550113/30550113/13220.m3u8
 #EXTINF:-1, ST-TV: Sky Family
 https://starshare.st/live/P4B9TB9xR8/humongous2tonight/274.ts
 #EXTINF:-1, ST-TV: Sky Sports News
@@ -266,7 +266,7 @@ http://mytvstream.net:8080/live/30550113/30550113/2214.m3u8
 #EXTINF:-1, ST-TV: Space City Home Network
 http://mytvstream.net:8080/live/30550113/30550113/213668.m3u8
 #EXTINF:-1, ST-TV: Spectrum SportsNet LA Dodgers
-http://mytvstream.net:8080/live/30550113/30550113/31636.m3u8
+https://restream-live.realiptv.to/Lucas123/Lucas123/74683
 #EXTINF:-1, ST-TV: Spectrum SportsNet Lakers
 http://mytvstream.net:8080/live/30550113/30550113/21842.m3u8
 #EXTINF:-1, ST-TV: Sportsman Channel
