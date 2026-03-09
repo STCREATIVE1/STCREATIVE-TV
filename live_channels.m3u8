@@ -152,7 +152,7 @@ http://mytvstream.net:8080/live/30550113/30550113/120633.m3u8
 #EXTINF:-1, ST-TV: getTV
 http://mytvstream.net:8080/live/30550113/30550113/18366.m3u8
 #EXTINF:-1, ST-TV: Golf Channel
-http://mytvstream.net:8080/live/30550113/30550113/9806.m3u8
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3294.ts
 #EXTINF:-1, ST-TV: Grit TV
 http://mytvstream.net:8080/live/30550113/30550113/20861.m3u8
 #EXTINF:-1, ST-TV: Hallmark Channel
@@ -194,7 +194,7 @@ http://mytvstream.net:8080/live/30550113/30550113/10399.m3u8
 #EXTINF:-1, ST-TV: MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1, ST-TV: MSNBC
-http://41.205.93.154/MSNBC/index.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/9296.m3u8
 #EXTINF:-1, ST-TV: MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1, ST-TV: National Geographic
@@ -210,7 +210,7 @@ http://mytvstream.net:8080/live/30550113/30550113/20939.m3u8
 #EXTINF:-1, ST-TV: NBC Sports California
 http://mytvstream.net:8080/live/30550113/30550113/20940.m3u8
 #EXTINF:-1, ST-TV: NBC Sports NOW
-https://starshare.st/live/P4B9TB9xR8/humongous2tonight/1001.ts
+https://jmp2.uk/stvp-USBD420002446
 #EXTINF:-1, ST-TV: NBC Sports Philadelphia
 http://mytvstream.net:8080/live/30550113/30550113/20943.m3u8
 #EXTINF:-1, ST-TV: NESN
