@@ -48,7 +48,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1, ST-TV: CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1, ST-TV: CBS Sports Network
-http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+https://restream-live.realiptv.to/2879115/5077048/3712
 #EXTINF:-1, ST-TV: Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1, ST-TV: Cleo TV
@@ -90,13 +90,13 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1, ST-TV: E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
-http://snowbank.houseinventer.com/6500/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1, ST-TV: ESPN News
 https://starshare.st/live/P4B9TB9xR8/humongous2tonight/1003.ts
 #EXTINF:-1, ST-TV: ESPN U
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1, ST-TV: ESPN2
-http://snowbank.houseinventer.com/6501/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+https://restream-live.realiptv.to/2879115/5077048/2581
 #EXTINF:-1, ST-TV: FDSN Detroit
 http://mytvstream.net:8080/live/30550113/30550113/20930.m3u8
 #EXTINF:-1, ST-TV: FDSN Florida
@@ -152,7 +152,7 @@ http://mytvstream.net:8080/live/30550113/30550113/120633.m3u8
 #EXTINF:-1, ST-TV: getTV
 http://mytvstream.net:8080/live/30550113/30550113/18366.m3u8
 #EXTINF:-1, ST-TV: Golf Channel
-https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3294.ts
+http://mytvstream.net:8080/live/30550113/30550113/9806.m3u8
 #EXTINF:-1, ST-TV: Grit TV
 http://mytvstream.net:8080/live/30550113/30550113/20861.m3u8
 #EXTINF:-1, ST-TV: Hallmark Channel
