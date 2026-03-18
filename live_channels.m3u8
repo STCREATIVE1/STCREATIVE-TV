@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, ST-TV: A&E TV
-http://41.205.93.154/AandE/index.m3u8
+http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1, ST-TV: ABC
 http://mytvstream.net:8080/live/30550113/30550113/121139.m3u8
 #EXTINF:-1, ST-TV: ACC Network
@@ -111,6 +111,8 @@ http://mytvstream.net:8080/live/30550113/30550113/17752.m3u8
 http://mytvstream.net:8080/live/30550113/30550113/20934.m3u8
 #EXTINF:-1, ST-TV: FDSN SoCal
 http://mytvstream.net:8080/live/30550113/30550113/221151.m3u8
+#EXTINF:-1, ST-TV: FDSN South
+http://23.239.31.26:8989/ballysportssouth/index.m3u8
 #EXTINF:-1, ST-TV: FDSN Southeast
 http://mytvstream.net:8080/live/30550113/30550113/2213.m3u8
 #EXTINF:-1, ST-TV: FDSN Southwest
