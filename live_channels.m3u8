@@ -26,11 +26,11 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1, ST-TV: BET
 http://212.102.60.231/BET/index.m3u8
 #EXTINF:-1, ST-TV: Big Ten Network
-http://23.237.104.106:8080/USA_BTN/index.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/9828.m3u8
 #EXTINF:-1, ST-TV: Bloomberg TV
 https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8
 #EXTINF:-1, ST-TV: Boomerang
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/14741.m3u8
 #EXTINF:-1, ST-TV: Bounce TV
 http://212.102.60.231/BOUNCE_TV/index.m3u8
 #EXTINF:-1, ST-TV: Bravo TV
@@ -48,7 +48,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1, ST-TV: CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1, ST-TV: CBS Sports Network
-http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+https://restream-live.realiptv.to/2879115/5077048/3712
 #EXTINF:-1, ST-TV: Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1, ST-TV: Cleo TV
@@ -56,7 +56,7 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts
 #EXTINF:-1, ST-TV: CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1, ST-TV: CNBC
-http://41.205.93.154/CNBC/index.m3u8
+http://89.105.221.127/CNBC/index.m3u8?token=test
 #EXTINF:-1, ST-TV: CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: Comedy Central
@@ -66,7 +66,7 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/261524.ts
 #EXTINF:-1, ST-TV: Comet TV
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1, ST-TV: Cooking Channel
-http://23.237.104.106:8080/USA_COOKING/index.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/9229.m3u8
 #EXTINF:-1, ST-TV: Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1, ST-TV: Cozi TV
@@ -90,13 +90,13 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1, ST-TV: E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
-http://snowbank.houseinventer.com/6500/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1, ST-TV: ESPN News
 https://starshare.st/live/P4B9TB9xR8/humongous2tonight/1003.ts
 #EXTINF:-1, ST-TV: ESPN U
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1, ST-TV: ESPN2
-http://snowbank.houseinventer.com/6501/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+https://restream-live.realiptv.to/2879115/5077048/2581
 #EXTINF:-1, ST-TV: FDSN Detroit
 http://mytvstream.net:8080/live/30550113/30550113/20930.m3u8
 #EXTINF:-1, ST-TV: FDSN Florida
@@ -216,7 +216,7 @@ https://jmp2.uk/stvp-USBD420002446
 #EXTINF:-1, ST-TV: NBC Sports Philadelphia
 http://mytvstream.net:8080/live/30550113/30550113/20943.m3u8
 #EXTINF:-1, ST-TV: NESN
-http://23.237.104.106:8080/USA_NESN/index.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/46726.m3u8
 #EXTINF:-1, ST-TV: NewsNation
 http://mytvstream.net:8080/live/30550113/30550113/161450.m3u8
 #EXTINF:-1, ST-TV: NFL Network
