@@ -8,23 +8,23 @@ http://23.237.104.106:8080/USA_ACCN/mpegts
 #EXTINF:-1, ST-TV: Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1, ST-TV: Altitude Sports
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/552925.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162771.ts
 #EXTINF:-1, ST-TV: AMC
 http://41.205.93.154/AMC/index.m3u8
 #EXTINF:-1, ST-TV: Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1, ST-TV: Antenna TV
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129826.ts
+http://mytvstream.net:8080/live/k4Svp2/645504/20180.m3u8
 #EXTINF:-1, ST-TV: Aspire
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/21630.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162754.ts
 #EXTINF:-1, ST-TV: AXS TV
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/42309.ts
+http://www.1play.cool:60001/live/ULtR63183811dd/kquFuCz3EpNa/135134.ts
 #EXTINF:-1, ST-TV: BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1, ST-TV: BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1, ST-TV: BET
-http://89.105.221.127/BET/index.m3u8?token=test
+http://212.102.60.231/BET/index.m3u8
 #EXTINF:-1, ST-TV: Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1, ST-TV: Bloomberg TV
@@ -38,7 +38,7 @@ http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1, ST-TV: Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: C-SPAN
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/137010.ts
+http://mytvstream.net:8080/live/k4Svp2/645504/136589.m3u8
 #EXTINF:-1, ST-TV: Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: CBS
@@ -48,7 +48,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1, ST-TV: CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1, ST-TV: CBS Sports Network
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/3712.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162524.ts
 #EXTINF:-1, ST-TV: Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1, ST-TV: Cleo TV
@@ -62,7 +62,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1, ST-TV: Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1, ST-TV: Comedy TV
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/77411.ts
+http://hardcoremedia.xyz/live/rabdsbmz/3731346838/261524.ts
 #EXTINF:-1, ST-TV: Comet TV
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1, ST-TV: Cooking Channel
@@ -70,19 +70,19 @@ http://23.237.104.106:8080/USA_COOKING/index.m3u8
 #EXTINF:-1, ST-TV: Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1, ST-TV: Cozi TV
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/2604.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162527.ts
 #EXTINF:-1, ST-TV: Crime & Investigation Network
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
 #EXTINF:-1, ST-TV: CW
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/87547.ts
+http://mytvstream.net:8080/live/k4Svp2/645504/120889.m3u8
 #EXTINF:-1, ST-TV: Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1, ST-TV: Discovery Family Channel
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/2598.ts
+http://mytvstream.net:8080/live/k4Svp2/645504/57347.m3u8
 #EXTINF:-1, ST-TV: Discovery Life
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/2597.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162531.ts
 #EXTINF:-1, ST-TV: Discovery Science
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/2595.ts
+http://mytvstream.net:8080/live/k4Svp2/645504/20866.m3u8
 #EXTINF:-1, ST-TV: Disney
 http://89.105.221.127/Disney/index.m3u8?token=test
 #EXTINF:-1, ST-TV: Disney XD
@@ -96,33 +96,33 @@ https://starshare.st/live/P4B9TB9xR8/humongous2tonight/1003.ts
 #EXTINF:-1, ST-TV: ESPN U
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1, ST-TV: ESPN2
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/21590.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162676.ts
 #EXTINF:-1, ST-TV: FDSN Detroit
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/663205.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163686.ts
 #EXTINF:-1, ST-TV: FDSN Florida
-http://mytvstream.net:8080/live/k4Svp2/645504/46794.m3u8
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163696.ts
 #EXTINF:-1, ST-TV: FDSN Midwest
-http://mytvstream.net:8080/live/k4Svp2/645504/66795.m3u8
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163668.ts
 #EXTINF:-1, ST-TV: FDSN North
-http://mytvstream.net:8080/live/k4Svp2/645504/58827.m3u8
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163682.ts
 #EXTINF:-1, ST-TV: FDSN Ohio
-http://mytvstream.net:8080/live/k4Svp2/645504/17752.m3u8
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163690.ts
 #EXTINF:-1, ST-TV: FDSN Oklahoma
-http://mytvstream.net:8080/live/k4Svp2/645504/20934.m3u8
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163674.ts
 #EXTINF:-1, ST-TV: FDSN SoCal
-http://mytvstream.net:8080/live/k4Svp2/645504/221151.m3u8
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163692.ts
 #EXTINF:-1, ST-TV: FDSN South
-http://mytvstream.net:8080/live/k4Svp2/645504/20922.m3u8
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163698.ts
 #EXTINF:-1, ST-TV: FDSN Southeast
-http://mytvstream.net:8080/live/k4Svp2/645504/2213.m3u8
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163670.ts
 #EXTINF:-1, ST-TV: FDSN Southwest
-http://mytvstream.net:8080/live/k4Svp2/645504/21843.m3u8
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163694.ts
 #EXTINF:-1, ST-TV: FDSN Sun
-http://mytvstream.net:8080/live/k4Svp2/645504/104917.m3u8
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163688.ts
 #EXTINF:-1, ST-TV: FDSN West
 https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3426.ts
 #EXTINF:-1, ST-TV: FDSN Wisconsin
-http://mytvstream.net:8080/live/k4Svp2/645504/78599.m3u8
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163684.ts
 #EXTINF:-1, ST-TV: FIFA+ TV
 https://jmp2.uk/stvp-IN270000230
 #EXTINF:-1, ST-TV: Food Network
@@ -130,7 +130,7 @@ http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Fox
 http://stream.cammonitorplus.net/1772/index.m3u8
 #EXTINF:-1, ST-TV: Fox Business
-http://41.205.93.154/FOXBUSINESS/index.m3u8
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162539.ts
 #EXTINF:-1, ST-TV: Fox News
 https://starshare.st/live/P4B9TB9xR8/humongous2tonight/51.ts
 #EXTINF:-1, ST-TV: Fox Sports 1
@@ -138,29 +138,29 @@ https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3420.ts
 #EXTINF:-1, ST-TV: Fox Sports 2
 https://starshare.st/live/P4B9TB9xR8/humongous2tonight/55.ts
 #EXTINF:-1, ST-TV: Freeform TV
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/2502.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162693.ts
 #EXTINF:-1, ST-TV: FUSE
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1, ST-TV: FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1, ST-TV: FX Movie Channel
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/3736.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162697.ts
 #EXTINF:-1, ST-TV: FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1, ST-TV: FYI TV
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/97459.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162544.ts
 #EXTINF:-1, ST-TV: Game Show Network
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/21571.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162699.ts
 #EXTINF:-1, ST-TV: getTV
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/30928.ts
+http://mytvstream.net:8080/live/k4Svp2/645504/18366.m3u8
 #EXTINF:-1, ST-TV: Golf Channel
 https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3294.ts
 #EXTINF:-1, ST-TV: Grit TV
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/40583.ts
+http://mytvstream.net:8080/live/k4Svp2/645504/20861.m3u8
 #EXTINF:-1, ST-TV: Hallmark Channel
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 #EXTINF:-1, ST-TV: Hallmark Mystery
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/97462.ts
+http://www.1play.cool:60001/live/ULtR63183811dd/kquFuCz3EpNa/30345.ts
 #EXTINF:-1, ST-TV: HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1, ST-TV: HBO 2
@@ -172,29 +172,29 @@ http://mytvstream.net:8080/live/k4Svp2/645504/17772.m3u8
 #EXTINF:-1, ST-TV: HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1, ST-TV: History Channel
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/21558.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162548.ts
 #EXTINF:-1, ST-TV: HLN TV
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1, ST-TV: INSP
 http://89.105.221.127/INSP/index.m3u8?token=test
 #EXTINF:-1, ST-TV: Investigation Discovery
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/88083.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162708.ts
 #EXTINF:-1, ST-TV: ION TV
-http://mytvstream.net:8080/live/k4Svp2/645504/9297.m3u8
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162550.ts
 #EXTINF:-1, ST-TV: Lifetime
 http://41.205.93.154/LIFETIME/index.m3u8
 #EXTINF:-1, ST-TV: Lifetime Movie Network
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1, ST-TV: Marquee Sports Network
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/55178.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162758.ts
 #EXTINF:-1, ST-TV: MLB Network
 http://89.105.221.127/MLBNetwork/mpegts?token=test
 #EXTINF:-1, ST-TV: MotorTrend TV
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/3747.ts
+http://www.1play.cool:60001/live/ULtR63183811dd/kquFuCz3EpNa/129656.ts
 #EXTINF:-1, ST-TV: MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1, ST-TV: MSNBC
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/21551.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162560.ts
 #EXTINF:-1, ST-TV: MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1, ST-TV: National Geographic
@@ -204,27 +204,27 @@ http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1, ST-TV: NBC
 http://stream.cammonitorplus.net/1812/index.m3u8
 #EXTINF:-1, ST-TV: NBC Sports Bay Area
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/2436.ts
+http://mytvstream.net:8080/live/k4Svp2/645504/9900.m3u8
 #EXTINF:-1, ST-TV: NBC Sports Boston
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/2435.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162566.ts
 #EXTINF:-1, ST-TV: NBC Sports California
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/3821.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162769.ts
 #EXTINF:-1, ST-TV: NBC Sports NOW
 https://jmp2.uk/stvp-USBD420002446
 #EXTINF:-1, ST-TV: NBC Sports Philadelphia
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/3769.ts
+http://mytvstream.net:8080/live/k4Svp2/645504/20943.m3u8
 #EXTINF:-1, ST-TV: NESN
 http://23.237.104.106:8080/USA_NESN/index.m3u8
 #EXTINF:-1, ST-TV: NewsNation
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/638792.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162727.ts
 #EXTINF:-1, ST-TV: NFL Network
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: NFL RedZone
 https://starshare.st/live/P4B9TB9xR8/humongous2tonight/23550.ts
 #EXTINF:-1, ST-TV: NHL Network
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/3672.ts
+http://89.105.221.127/nhl/index.m3u8?token=test
 #EXTINF:-1, ST-TV: Nick Jr
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/74691.ts
+http://www.1play.cool:60001/live/ULtR63183811dd/kquFuCz3EpNa/59666.ts
 #EXTINF:-1, ST-TV: Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1, ST-TV: Nicktoons
@@ -232,7 +232,7 @@ http://212.102.60.231/NICKTOONS/index.m3u8
 #EXTINF:-1, ST-TV: Outdoor Channel
 http://23.237.104.106:8080/USA_OUTDOOR/mpegts
 #EXTINF:-1, ST-TV: Ovation
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/31180.ts
+http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129935.ts
 #EXTINF:-1, ST-TV: Oxygen
 http://89.105.221.127/Oxygen/index.m3u8?token=test
 #EXTINF:-1, ST-TV: Paramount Network
@@ -240,7 +240,7 @@ http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1, ST-TV: Pop TV
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/97479.ts
+http://mytvstream.net:8080/live/k4Svp2/645504/20976.m3u8
 #EXTINF:-1, ST-TV: Premier Sports 1
 https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5029.ts
 #EXTINF:-1, ST-TV: Premier Sports 2
@@ -254,45 +254,45 @@ http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:-1, ST-TV: Showtime Extreme
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/648984.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162734.ts
 #EXTINF:-1, ST-TV: Sky Family
 https://starshare.st/live/P4B9TB9xR8/humongous2tonight/274.ts
 #EXTINF:-1, ST-TV: Sky Sports News
 https://starshare.st/live/P4B9TB9xR8/humongous2tonight/23.ts
 #EXTINF:-1, ST-TV: Smithsonian Channel
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/97481.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45866.ts
 #EXTINF:-1, ST-TV: Sony Movie Channel
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/2412.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162583.ts
 #EXTINF:-1, ST-TV: Space City Home Network
 https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3428.ts
 #EXTINF:-1, ST-TV: Spectrum SportsNet LA Dodgers
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/74683.ts
+http://www.1play.cool:60001/live/ULtR63183811dd/kquFuCz3EpNa/78514.ts
 #EXTINF:-1, ST-TV: Spectrum SportsNet Lakers
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/512561.ts
+http://www.1play.cool:60001/live/ULtR63183811dd/kquFuCz3EpNa/78515.ts
 #EXTINF:-1, ST-TV: Sportsman Channel
-http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162586.ts
 #EXTINF:-1, ST-TV: Sportsnet 360
-https://stream.decentdoubts.net/803/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
+https://stream.decentdoubts.net/803/index.m3u8
 #EXTINF:-1, ST-TV: Sportsnet East
-https://stream.decentdoubts.net/801/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
+https://stream.decentdoubts.net/801/index.m3u8
 #EXTINF:-1, ST-TV: SportsNet New York
 http://212.102.60.231/SNY/index.m3u8
 #EXTINF:-1, ST-TV: Sportsnet One
-https://stream.decentdoubts.net/808/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
+https://stream.decentdoubts.net/808/index.m3u8
 #EXTINF:-1, ST-TV: SportsNet Pittsburgh
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/149311.ts
+http://mytvstream.net:8080/live/k4Svp2/645504/108178.m3u8
 #EXTINF:-1, ST-TV: Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1, ST-TV: Starz Encore Classic
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/257255.ts
+http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8
 #EXTINF:-1, ST-TV: Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1, ST-TV: TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: Tennis Channel
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/2386.ts
+http://mytvstream.net:8080/live/k4Svp2/645504/20184.m3u8
 #EXTINF:-1, ST-TV: The Weather Channel
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/42308.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162591.ts
 #EXTINF:-1, ST-TV: TLC
 http://89.105.221.127/tlc/mpegts?token=test
 #EXTINF:-1, ST-TV: TNT
@@ -300,17 +300,17 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:-1, ST-TV: truTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: TSN1
-https://stream.decentdoubts.net/805/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1
+https://stream.decentdoubts.net/805/index.m3u8
 #EXTINF:-1, ST-TV: TSN2
-https://stream.decentdoubts.net/806/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1
+https://stream.decentdoubts.net/806/index.m3u8
 #EXTINF:-1, ST-TV: Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1, ST-TV: TV Land
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/21580.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162596.ts
 #EXTINF:-1, ST-TV: TV One
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/21897.ts
+http://mytvstream.net:8080/live/k4Svp2/645504/20868.m3u8
 #EXTINF:-1, ST-TV: USA East
-http://user.scalecdn.co:8080/live/69922173979534301/P0ZxXMOVz8qnPU4m/3767.ts
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162604.ts
 #EXTINF:-1, ST-TV: VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1, ST-TV: Vice TV
