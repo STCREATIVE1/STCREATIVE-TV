@@ -8,15 +8,15 @@ http://23.237.104.106:8080/USA_ACCN/mpegts
 #EXTINF:-1, ST-TV: Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1, ST-TV: Altitude Sports
-http://mytvstream.net:8080/live/56481106/11185695/79545.m3u8
+http://mytvstream.net:8080/live/8434692955/judgen64@yahoo.com/79545.m3u8
 #EXTINF:-1, ST-TV: AMC
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1, ST-TV: Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1, ST-TV: Antenna TV
-http://mytvstream.net:8080/live/56481106/11185695/20180.m3u8
+http://mytvstream.net:8080/live/8434692955/judgen64@yahoo.com/20180.m3u8
 #EXTINF:-1, ST-TV: Aspire
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/150605.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/150605
 #EXTINF:-1, ST-TV: AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1, ST-TV: BBC America
@@ -38,7 +38,7 @@ http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1, ST-TV: Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: C-SPAN
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/14804.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/14804
 #EXTINF:-1, ST-TV: Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: CBS
@@ -48,7 +48,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1, ST-TV: CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1, ST-TV: CBS Sports Network
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/267357.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/267357
 #EXTINF:-1, ST-TV: Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1, ST-TV: Cleo TV
@@ -56,13 +56,13 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts
 #EXTINF:-1, ST-TV: CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1, ST-TV: CNBC
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2295.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2295
 #EXTINF:-1, ST-TV: CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1, ST-TV: Comedy TV
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/199482.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/199482
 #EXTINF:-1, ST-TV: Comet TV
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1, ST-TV: Cooking Channel
@@ -70,21 +70,21 @@ http://23.237.104.106:8080/USA_COOKING/index.m3u8
 #EXTINF:-1, ST-TV: Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1, ST-TV: Cozi TV
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/8392.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/8392
 #EXTINF:-1, ST-TV: Crime & Investigation Network
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
 #EXTINF:-1, ST-TV: CW
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/171820.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/171820
 #EXTINF:-1, ST-TV: Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1, ST-TV: Discovery Family Channel
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2300.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2300
 #EXTINF:-1, ST-TV: Discovery Life
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/201208.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/201208
 #EXTINF:-1, ST-TV: Discovery Science
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2301.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2301
 #EXTINF:-1, ST-TV: Disney
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2303.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2303
 #EXTINF:-1, ST-TV: Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1, ST-TV: E! Entertainment
@@ -92,37 +92,37 @@ http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1, ST-TV: ESPN News
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2312.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2312
 #EXTINF:-1, ST-TV: ESPN U
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1, ST-TV: ESPN2
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/41918.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/41918
 #EXTINF:-1, ST-TV: FDSN Detroit
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/6463.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/6463
 #EXTINF:-1, ST-TV: FDSN Florida
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/296662.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/296662
 #EXTINF:-1, ST-TV: FDSN Midwest
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/58557.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/58557
 #EXTINF:-1, ST-TV: FDSN North
-http://mytvstream.net:8080/live/56481106/11185695/20928.m3u8
+http://mytvstream.net:8080/live/8434692955/judgen64@yahoo.com/20928.m3u8
 #EXTINF:-1, ST-TV: FDSN Ohio
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/296675.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/296675
 #EXTINF:-1, ST-TV: FDSN Oklahoma
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/6452.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/6452
 #EXTINF:-1, ST-TV: FDSN SoCal
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/296681.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/296681
 #EXTINF:-1, ST-TV: FDSN South
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/277374.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/277374
 #EXTINF:-1, ST-TV: FDSN Southeast
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/82301.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/82301
 #EXTINF:-1, ST-TV: FDSN Southwest
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/296685.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/296685
 #EXTINF:-1, ST-TV: FDSN Sun
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2325.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2325
 #EXTINF:-1, ST-TV: FDSN West
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3367.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3367
 #EXTINF:-1, ST-TV: FDSN Wisconsin
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/295668.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/295668
 #EXTINF:-1, ST-TV: FIFA+ TV
 https://jmp2.uk/stvp-IN270000230
 #EXTINF:-1, ST-TV: Food Network
@@ -132,37 +132,37 @@ http://stream.cammonitorplus.net/1772/index.m3u8
 #EXTINF:-1, ST-TV: Fox Business
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1, ST-TV: Fox News
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1611.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1611
 #EXTINF:-1, ST-TV: Fox Sports 1
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/756.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/756
 #EXTINF:-1, ST-TV: Fox Sports 2
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/757.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/757
 #EXTINF:-1, ST-TV: Freeform TV
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2329.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2329
 #EXTINF:-1, ST-TV: FUSE
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1, ST-TV: FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1, ST-TV: FX Movie Channel
-http://mytvstream.net:8080/live/56481106/11185695/10260.m3u8
+http://mytvstream.net:8080/live/8434692955/judgen64@yahoo.com/10260.m3u8
 #EXTINF:-1, ST-TV: FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1, ST-TV: FYI TV
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/9234.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/9234
 #EXTINF:-1, ST-TV: Game Show Network
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/466.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/466
 #EXTINF:-1, ST-TV: getTV
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/194187.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/194187
 #EXTINF:-1, ST-TV: Golf Channel
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/5845.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/5845
 #EXTINF:-1, ST-TV: Grit TV
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/15086.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/15086
 #EXTINF:-1, ST-TV: Hallmark Channel
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 #EXTINF:-1, ST-TV: Hallmark Family
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/304609.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/304609
 #EXTINF:-1, ST-TV: Hallmark Mystery
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3388.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3388
 #EXTINF:-1, ST-TV: HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1, ST-TV: HBO 2
@@ -170,63 +170,63 @@ http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1, ST-TV: HBO Comedy
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:-1, ST-TV: HBO Family
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/760.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/760
 #EXTINF:-1, ST-TV: HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1, ST-TV: History Channel
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/761.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/761
 #EXTINF:-1, ST-TV: HLN TV
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1, ST-TV: INSP
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/30900.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/30900
 #EXTINF:-1, ST-TV: Investigation Discovery
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/8557.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/8557
 #EXTINF:-1, ST-TV: ION TV
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/147661.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/147661
 #EXTINF:-1, ST-TV: Lifetime
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/4667.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/4667
 #EXTINF:-1, ST-TV: Lifetime Movie Network
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1, ST-TV: Marquee Sports Network
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/150609.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/150609
 #EXTINF:-1, ST-TV: MLB Network
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2342.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2342
 #EXTINF:-1, ST-TV: MotorTrend TV
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/272264.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/272264
 #EXTINF:-1, ST-TV: MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1, ST-TV: MSNBC
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/406.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/406
 #EXTINF:-1, ST-TV: MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1, ST-TV: National Geographic
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/749.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/749
 #EXTINF:-1, ST-TV: NBA TV
 http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1, ST-TV: NBC
 http://stream.cammonitorplus.net/1804/index.m3u8
 #EXTINF:-1, ST-TV: NBC Sports Bay Area
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/45785.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/45785
 #EXTINF:-1, ST-TV: NBC Sports Boston
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/35132.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/35132
 #EXTINF:-1, ST-TV: NBC Sports California
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/16116.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/16116
 #EXTINF:-1, ST-TV: NBC Sports NOW
 https://jmp2.uk/stvp-USBD420002446
 #EXTINF:-1, ST-TV: NBC Sports Philadelphia
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/35472.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/35472
 #EXTINF:-1, ST-TV: NESN
 http://23.237.104.106:8080/USA_NESN/index.m3u8
 #EXTINF:-1, ST-TV: NewsNation
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/6296.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/6296
 #EXTINF:-1, ST-TV: NFL Network
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: NFL RedZone
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2369.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2369
 #EXTINF:-1, ST-TV: NHL Network
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2348.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2348
 #EXTINF:-1, ST-TV: Nick Jr
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/14835.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/14835
 #EXTINF:-1, ST-TV: Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1, ST-TV: Nicktoons
@@ -234,19 +234,19 @@ http://212.102.60.231/NICKTOONS/index.m3u8
 #EXTINF:-1, ST-TV: Outdoor Channel
 http://23.237.104.106:8080/USA_OUTDOOR/mpegts
 #EXTINF:-1, ST-TV: Ovation
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/194336.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/194336
 #EXTINF:-1, ST-TV: Oxygen
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/6378.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/6378
 #EXTINF:-1, ST-TV: Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1, ST-TV: Pop TV
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/305494.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/305494
 #EXTINF:-1, ST-TV: Premier Sports 1
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1097.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1097
 #EXTINF:-1, ST-TV: Premier Sports 2
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/4723.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/4723
 #EXTINF:-1, ST-TV: QVC
 http://212.102.60.231/QVC/index.m3u8
 #EXTINF:-1, ST-TV: Reelz Channel
@@ -256,31 +256,31 @@ http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:-1, ST-TV: Showtime Extreme
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/12036.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/12036
 #EXTINF:-1, ST-TV: Sky Sports News
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/304775.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/304775
 #EXTINF:-1, ST-TV: Smithsonian Channel
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/8585.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/8585
 #EXTINF:-1, ST-TV: Sony Movie Channel
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/5831.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/5831
 #EXTINF:-1, ST-TV: Space City Home Network
-http://mytvstream.net:8080/live/56481106/11185695/213668.m3u8
+http://mytvstream.net:8080/live/8434692955/judgen64@yahoo.com/213668.m3u8
 #EXTINF:-1, ST-TV: Spectrum SportsNet LA Dodgers
-http://mytvstream.net:8080/live/56481106/11185695/31636.m3u8
+http://mytvstream.net:8080/live/8434692955/judgen64@yahoo.com/31636.m3u8
 #EXTINF:-1, ST-TV: Spectrum SportsNet Lakers
-http://mytvstream.net:8080/live/56481106/11185695/21842.m3u8
+http://mytvstream.net:8080/live/8434692955/judgen64@yahoo.com/21842.m3u8
 #EXTINF:-1, ST-TV: Sportsman Channel
 http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1, ST-TV: Sportsnet 360
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3377.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3377
 #EXTINF:-1, ST-TV: Sportsnet East
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1720.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1720
 #EXTINF:-1, ST-TV: SportsNet New York
 http://212.102.60.231/SNY/index.m3u8
 #EXTINF:-1, ST-TV: Sportsnet One
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3378.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3378
 #EXTINF:-1, ST-TV: SportsNet Pittsburgh
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/59945.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/59945
 #EXTINF:-1, ST-TV: Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1, ST-TV: Starz Encore Classic
@@ -292,25 +292,25 @@ https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_356
 #EXTINF:-1, ST-TV: Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1, ST-TV: The Weather Channel
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2361.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2361
 #EXTINF:-1, ST-TV: TLC
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2362.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2362
 #EXTINF:-1, ST-TV: TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: truTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: TSN1
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/770.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/770
 #EXTINF:-1, ST-TV: TSN2
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/771.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/771
 #EXTINF:-1, ST-TV: Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1, ST-TV: TV Land
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2364.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2364
 #EXTINF:-1, ST-TV: TV One
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/13010.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/13010
 #EXTINF:-1, ST-TV: USA East
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3390.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3390
 #EXTINF:-1, ST-TV: VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1, ST-TV: Vice TV
@@ -318,6 +318,6 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1, ST-TV: We Tv
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1, ST-TV: Willow Cricket
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/296763.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/296763
 #EXTINF:-1, ST-TV: YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
