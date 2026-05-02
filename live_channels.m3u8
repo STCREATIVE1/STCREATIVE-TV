@@ -24,7 +24,7 @@ https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/62407
 #EXTINF:-1, ST-TV: BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1, ST-TV: BET
-http://212.102.60.231/BET/index.m3u8
+http://41.205.93.154/BET-EN/index.m3u8
 #EXTINF:-1, ST-TV: Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1, ST-TV: Bloomberg TV
@@ -32,7 +32,7 @@ https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18e
 #EXTINF:-1, ST-TV: Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1, ST-TV: Bounce TV
-http://212.102.60.231/BOUNCE_TV/index.m3u8
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1, ST-TV: Bravo TV
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1, ST-TV: Buzzr
@@ -202,7 +202,7 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1, ST-TV: National Geographic
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/749
 #EXTINF:-1, ST-TV: NBA TV
-http://212.102.60.231/NBA_TV/index.m3u8
+http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ST-TV: NBC
 http://stream.cammonitorplus.net/1785/index.m3u8
 #EXTINF:-1, ST-TV: NBC Sports Bay Area
@@ -230,7 +230,7 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/14835
 #EXTINF:-1, ST-TV: Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1, ST-TV: Nicktoons
-http://212.102.60.231/NICKTOONS/index.m3u8
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2351
 #EXTINF:-1, ST-TV: Outdoor Channel
 http://23.237.104.106:8080/USA_OUTDOOR/mpegts
 #EXTINF:-1, ST-TV: Ovation
@@ -257,8 +257,6 @@ http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:-1, ST-TV: Showtime Extreme
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/12036
-#EXTINF:-1, ST-TV: Sky Sports Football
-http://46.43.65.98/skysportsfootball/index.m3u8
 #EXTINF:-1, ST-TV: Sky Sports News
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/304775
 #EXTINF:-1, ST-TV: Smithsonian Channel
