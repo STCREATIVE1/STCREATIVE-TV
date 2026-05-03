@@ -196,7 +196,7 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/272264
 #EXTINF:-1, ST-TV: MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1, ST-TV: MSNBC
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/406
+http://41.205.93.154:80/MSNBC/index.m3u8
 #EXTINF:-1, ST-TV: MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1, ST-TV: National Geographic
@@ -257,6 +257,8 @@ http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:-1, ST-TV: Showtime Extreme
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/12036
+#EXTINF:-1, ST-TV: Sky Sports Football
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/304771
 #EXTINF:-1, ST-TV: Sky Sports News
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/304775
 #EXTINF:-1, ST-TV: Smithsonian Channel
@@ -270,13 +272,13 @@ http://mytvstream.net:8080/live/88623297/04243674/31636.m3u8
 #EXTINF:-1, ST-TV: Spectrum SportsNet Lakers
 http://mytvstream.net:8080/live/88623297/04243674/21842.m3u8
 #EXTINF:-1, ST-TV: Sportsman Channel
-http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/30847
 #EXTINF:-1, ST-TV: Sportsnet 360
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3377
 #EXTINF:-1, ST-TV: Sportsnet East
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1720
 #EXTINF:-1, ST-TV: SportsNet New York
-http://212.102.60.231/SNY/index.m3u8
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/267219
 #EXTINF:-1, ST-TV: Sportsnet One
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3378
 #EXTINF:-1, ST-TV: SportsNet Pittsburgh
@@ -284,7 +286,7 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/59945
 #EXTINF:-1, ST-TV: Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1, ST-TV: Starz Encore Classic
-http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/25816
 #EXTINF:-1, ST-TV: Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1, ST-TV: TBS
