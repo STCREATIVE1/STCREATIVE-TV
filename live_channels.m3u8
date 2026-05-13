@@ -2,7 +2,7 @@
 #EXTINF:-1, ST-TV: A&E TV
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1, ST-TV: ABC
-http://stream.cammonitorplus.net/1762/index.m3u8
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3606.ts
 #EXTINF:-1, ST-TV: ACC Network
 http://23.237.104.106:8080/USA_ACCN/mpegts
 #EXTINF:-1, ST-TV: Adult Swim
@@ -42,7 +42,7 @@ http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/
 #EXTINF:-1, ST-TV: Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: CBS
-http://stream.cammonitorplus.net/1810/index.m3u8
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/89712.ts
 #EXTINF:-1, ST-TV: CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1, ST-TV: CBS Sports Golazo Network
@@ -128,7 +128,7 @@ https://jmp2.uk/stvp-IN270000230
 #EXTINF:-1, ST-TV: Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Fox
-http://stream.cammonitorplus.net/1752/index.m3u8
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2544.ts
 #EXTINF:-1, ST-TV: Fox Business
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1, ST-TV: Fox News
@@ -202,7 +202,7 @@ http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/
 #EXTINF:-1, ST-TV: NBA TV
 http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ST-TV: NBC
-http://stream.cammonitorplus.net/1812/index.m3u8
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2447.ts
 #EXTINF:-1, ST-TV: NBC Sports Bay Area
 http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2436.ts
 #EXTINF:-1, ST-TV: NBC Sports Boston
