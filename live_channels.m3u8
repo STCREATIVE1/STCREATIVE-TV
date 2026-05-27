@@ -22,7 +22,7 @@ https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/62407
 #EXTINF:-1, ST-TV: BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1, ST-TV: BET
-http://41.205.93.154/BET-EN/index.m3u8
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/204.ts
 #EXTINF:-1, ST-TV: Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1, ST-TV: Bloomberg TV
