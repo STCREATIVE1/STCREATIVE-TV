@@ -93,32 +93,6 @@ http://cdn1host.online:2999/live/bongus/35zqYxrbg0/134.ts
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1, ST-TV: ESPN2
 http://41.223.30.230/ESPN2/index.m3u8
-#EXTINF:-1, ST-TV: FDSN Detroit
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/317.ts
-#EXTINF:-1, ST-TV: FDSN Florida
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1622.ts
-#EXTINF:-1, ST-TV: FDSN Midwest
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/324.ts
-#EXTINF:-1, ST-TV: FDSN North
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/320.ts
-#EXTINF:-1, ST-TV: FDSN Ohio
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1207.ts
-#EXTINF:-1, ST-TV: FDSN Oklahoma
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1611.ts
-#EXTINF:-1, ST-TV: FDSN SoCal
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/665.ts
-#EXTINF:-1, ST-TV: FDSN South
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/319.ts
-#EXTINF:-1, ST-TV: FDSN Southeast
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/872.ts
-#EXTINF:-1, ST-TV: FDSN Southwest
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1189.ts
-#EXTINF:-1, ST-TV: FDSN Sun
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/322.ts
-#EXTINF:-1, ST-TV: FDSN West
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1633.ts
-#EXTINF:-1, ST-TV: FDSN Wisconsin
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1621.ts
 #EXTINF:-1, ST-TV: FIFA+ TV
 https://jmp2.uk/stvp-IN270000230
 #EXTINF:-1, ST-TV: Food Network
