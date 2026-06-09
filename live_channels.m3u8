@@ -2,7 +2,7 @@
 #EXTINF:-1, ST-TV: A&E TV
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1, ST-TV: ABC
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/727.ts
+http://stream.cammonitorplus.net/1809/index.m3u8
 #EXTINF:-1, ST-TV: ACC Network
 http://23.237.104.106:8080/USA_ACCN/mpegts
 #EXTINF:-1, ST-TV: Adult Swim
@@ -32,7 +32,7 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1, ST-TV: Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1, ST-TV: Bravo TV
-http://41.205.93.154/BRAVO/index.m3u8
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/200.ts
 #EXTINF:-1, ST-TV: Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: C-SPAN
@@ -40,7 +40,7 @@ http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1184.ts
 #EXTINF:-1, ST-TV: Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: CBS
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1852.ts
+http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1, ST-TV: CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1, ST-TV: CBS Sports Golazo Network
@@ -86,21 +86,21 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1, ST-TV: E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
-http://41.205.93.154/ESPN/index.m3u8
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/133.ts
 #EXTINF:-1, ST-TV: ESPN News
 http://cdn1host.online:2999/live/bongus/35zqYxrbg0/134.ts
 #EXTINF:-1, ST-TV: ESPN U
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1, ST-TV: ESPN2
-http://41.223.30.230/ESPN2/index.m3u8
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/173.ts
 #EXTINF:-1, ST-TV: FIFA+ TV
 https://jmp2.uk/stvp-IN270000230
 #EXTINF:-1, ST-TV: Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Fox
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/728.ts
+http://stream.cammonitorplus.net/1752/index.m3u8
 #EXTINF:-1, ST-TV: Fox Business
-http://41.205.93.154/FOXBUSINESS/index.m3u8
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/268.ts
 #EXTINF:-1, ST-TV: Fox News
 http://cdn1host.online:2999/live/bongus/35zqYxrbg0/267.ts
 #EXTINF:-1, ST-TV: Fox Sports 1
@@ -164,7 +164,7 @@ http://cdn1host.online:2999/live/bongus/35zqYxrbg0/250.ts
 #EXTINF:-1, ST-TV: MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1, ST-TV: MSNBC
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/143.ts
+http://41.205.93.154:80/MSNBC/index.m3u8
 #EXTINF:-1, ST-TV: MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1, ST-TV: National Geographic
@@ -172,13 +172,13 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1, ST-TV: NBA TV
 http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ST-TV: NBC
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/729.ts
+http://stream.cammonitorplus.net/1812/index.m3u8
 #EXTINF:-1, ST-TV: NBC Sports Bay Area
 http://cdn1host.online:2999/live/bongus/35zqYxrbg0/591.ts
 #EXTINF:-1, ST-TV: NBC Sports Boston
 http://cdn1host.online:2999/live/bongus/35zqYxrbg0/590.ts
 #EXTINF:-1, ST-TV: NBC Sports California
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/589.ts
+http://stream.cammonitorplus.net/1795/index.m3u8
 #EXTINF:-1, ST-TV: NBC Sports NOW
 https://jmp2.uk/stvp-USBD420002446
 #EXTINF:-1, ST-TV: NBC Sports Philadelphia
