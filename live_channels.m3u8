@@ -23,6 +23,8 @@ http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 http://193.239.186.231/BBC1/index.m3u8
 #EXTINF:-1, ST-TV: BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1, ST-TV: beIN Sports 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1, ST-TV: BET
 http://41.205.93.154/BET-EN/index.m3u8
 #EXTINF:-1, ST-TV: Big Ten Network
@@ -34,7 +36,7 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1, ST-TV: Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1, ST-TV: Bravo TV
-http://41.205.93.154/BRAVO/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2655.ts
 #EXTINF:-1, ST-TV: Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: C-SPAN
@@ -73,6 +75,8 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2604.ts
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
 #EXTINF:-1, ST-TV: CW
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3115.ts
+#EXTINF:-1, ST-TV: DAZN
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 #EXTINF:-1, ST-TV: Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1, ST-TV: Discovery Family Channel
