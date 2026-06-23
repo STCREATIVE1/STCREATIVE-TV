@@ -26,7 +26,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1, ST-TV: beIN Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1, ST-TV: BET
-http://41.205.93.154/BET-EN/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647385.ts
 #EXTINF:-1, ST-TV: Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1, ST-TV: Bloomberg TV
@@ -98,7 +98,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts
 #EXTINF:-1, ST-TV: ESPN U
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1, ST-TV: ESPN2
-http://41.223.30.230/ESPN2/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts
 #EXTINF:-1, ST-TV: FIFA+ TV
 https://jmp2.uk/stvp-IN270000230
 #EXTINF:-1, ST-TV: Food Network
@@ -110,7 +110,7 @@ http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1, ST-TV: Fox News
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2543.ts
 #EXTINF:-1, ST-TV: Fox Sports 1
-http://41.223.30.230/FOXSPORTS1/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
 #EXTINF:-1, ST-TV: Fox Sports 2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
 #EXTINF:-1, ST-TV: Freeform TV
