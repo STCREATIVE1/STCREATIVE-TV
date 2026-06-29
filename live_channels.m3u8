@@ -87,6 +87,12 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2595.ts
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2591.ts
 #EXTINF:-1, ST-TV: Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1, ST-TV: DSports
+http://148.222.230.197:8000/play/a0mm/index.m3u8
+#EXTINF:-1, ST-TV: DSports 2
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+#EXTINF:-1, ST-TV: DSports Plus
+http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1, ST-TV: E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
@@ -97,8 +103,6 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1, ST-TV: ESPN2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts
-#EXTINF:-1, ST-TV: FIFA+ TV
-https://jmp2.uk/stvp-IN270000230
 #EXTINF:-1, ST-TV: Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Fox
@@ -243,8 +247,6 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/663927.ts
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74683.ts
 #EXTINF:-1, ST-TV: Spectrum SportsNet Lakers
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/512561.ts
-#EXTINF:-1, ST-TV: Sportsman Channel
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/97483.ts
 #EXTINF:-1, ST-TV: Sportsnet 360
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3073.ts
 #EXTINF:-1, ST-TV: Sportsnet East
@@ -295,5 +297,7 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1, ST-TV: Willow Cricket
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts
+#EXTINF:-1, ST-TV: Win Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1, ST-TV: YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
