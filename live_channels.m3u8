@@ -75,6 +75,10 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2604.ts
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
 #EXTINF:-1, ST-TV: CW
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3115.ts
+#EXTINF:-1, ST-TV: DIRECTV Sports
+http://201.230.121.85:8000/play/dssporthd/index.m3u8
+#EXTINF:-1, ST-TV: DIRECTV Sports +
+http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1, ST-TV: Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1, ST-TV: Discovery Family Channel
@@ -87,12 +91,6 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2595.ts
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2591.ts
 #EXTINF:-1, ST-TV: Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-#EXTINF:-1, ST-TV: DSports
-http://148.222.230.197:8000/play/a0mm/index.m3u8
-#EXTINF:-1, ST-TV: DSports 2
-http://181.64.27.65:8000/play/a0dq/index.m3u8
-#EXTINF:-1, ST-TV: DSports Plus
-http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1, ST-TV: E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
@@ -297,7 +295,5 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1, ST-TV: Willow Cricket
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts
-#EXTINF:-1, ST-TV: Win Sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1, ST-TV: YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
