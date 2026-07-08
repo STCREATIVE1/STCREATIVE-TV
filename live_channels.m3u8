@@ -108,7 +108,7 @@ http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Fox
 http://stream.cammonitorplus.net/1752/index.m3u8
 #EXTINF:-1, ST-TV: Fox Business
-http://41.205.93.154/FOXBUSINESS/index.m3u8
+http://206.212.244.63/66/index.m3u8
 #EXTINF:-1, ST-TV: Fox News
 http://206.212.244.63/67/index.m3u8
 #EXTINF:-1, ST-TV: Fox Sports 1
@@ -142,11 +142,11 @@ http://206.212.244.63/85/index.m3u8
 #EXTINF:-1, ST-TV: Hallmark Mystery
 http://206.212.244.63/86/index.m3u8
 #EXTINF:-1, ST-TV: HBO
-http://23.237.104.106:8080/USA_HBO/index.m3u8
+http://40.160.24.53/HBO_HD/index.m3u8
 #EXTINF:-1, ST-TV: HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1, ST-TV: HBO Comedy
-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts
 #EXTINF:-1, ST-TV: HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1, ST-TV: History Channel
@@ -232,7 +232,7 @@ http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:-1, ST-TV: SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Showtime
-http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2416.ts
 #EXTINF:-1, ST-TV: Showtime Extreme
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts
 #EXTINF:-1, ST-TV: Sky Sports Football
