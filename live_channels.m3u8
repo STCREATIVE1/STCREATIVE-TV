@@ -2,7 +2,7 @@
 #EXTINF:-1, ST-TV: A&E TV
 http://206.212.244.63/1/index.m3u8
 #EXTINF:-1, ST-TV: ABC
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/112234.ts
+http://stream.cammonitorplus.net/1758/index.m3u8
 #EXTINF:-1, ST-TV: ACC Network
 http://23.237.104.106:8080/USA_ACCN/mpegts
 #EXTINF:-1, ST-TV: Adult Swim
@@ -48,11 +48,13 @@ http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1, ST-TV: CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1, ST-TV: CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 #EXTINF:-1, ST-TV: CBS Sports Network
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts
 #EXTINF:-1, ST-TV: Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1, ST-TV: Cinemax Classics
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1, ST-TV: CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1, ST-TV: CNBC
@@ -143,8 +145,6 @@ http://206.212.244.63/85/index.m3u8
 http://206.212.244.63/86/index.m3u8
 #EXTINF:-1, ST-TV: HBO
 http://40.160.24.53/HBO_HD/index.m3u8
-#EXTINF:-1, ST-TV: HBO 2
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1, ST-TV: HBO Comedy
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts
 #EXTINF:-1, ST-TV: HBO Zone
@@ -261,6 +261,10 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3071.ts
 #EXTINF:-1, ST-TV: Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1, ST-TV: Starz Cinema
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:-1, ST-TV: Starz Comedy
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:-1, ST-TV: Starz Encore Classic
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3953.ts
 #EXTINF:-1, ST-TV: STV
