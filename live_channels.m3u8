@@ -2,7 +2,7 @@
 #EXTINF:-1, ST-TV: A&E TV
 http://206.212.244.63/1/index.m3u8
 #EXTINF:-1, ST-TV: ABC
-http://stream.cammonitorplus.net/1758/index.m3u8
+http://stream.cammonitorplus.net/1790/index.m3u8
 #EXTINF:-1, ST-TV: ACC Network
 http://23.237.104.106:8080/USA_ACCN/mpegts
 #EXTINF:-1, ST-TV: Adult Swim
@@ -24,7 +24,7 @@ http://193.239.186.231/BBC1/index.m3u8
 #EXTINF:-1, ST-TV: BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1, ST-TV: beIN Sports 1
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+http://99.27.51.147:8080/BeinSport/mpegts
 #EXTINF:-1, ST-TV: BET
 http://206.212.244.63/16/index.m3u8
 #EXTINF:-1, ST-TV: Big Ten Network
