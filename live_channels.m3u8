@@ -10,7 +10,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 #EXTINF:-1, ST-TV: Altitude Sports
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/332892.ts
 #EXTINF:-1, ST-TV: AMC
-http://41.205.93.154/AMC/index.m3u8
+http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1, ST-TV: Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1, ST-TV: Aspire
@@ -23,8 +23,6 @@ http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2359.ts
 #EXTINF:-1, ST-TV: BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1, ST-TV: beIN Sports 1
-http://99.27.51.147:8080/BeinSport/mpegts
 #EXTINF:-1, ST-TV: BET
 http://206.212.244.63/16/index.m3u8
 #EXTINF:-1, ST-TV: Big Ten Network
@@ -77,10 +75,6 @@ http://206.212.244.63/49/index.m3u8
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
 #EXTINF:-1, ST-TV: CW
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3115.ts
-#EXTINF:-1, ST-TV: DIRECTV Sports
-http://201.230.121.85:8000/play/dssporthd/index.m3u8
-#EXTINF:-1, ST-TV: DIRECTV Sports +
-http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1, ST-TV: Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1, ST-TV: Discovery Family Channel
