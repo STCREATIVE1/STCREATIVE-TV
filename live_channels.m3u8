@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, ST-TV: A&E TV
-http://206.212.244.63/1/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3607.ts
 #EXTINF:-1, ST-TV: ABC
 http://stream.cammonitorplus.net/1790/index.m3u8
 #EXTINF:-1, ST-TV: ACC Network
@@ -28,9 +28,9 @@ http://99.27.51.147:8080/BeinSport/mpegts
 #EXTINF:-1, ST-TV: beIN Sports en Español
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21586.ts
 #EXTINF:-1, ST-TV: beIN Sports USA
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21585.ts
 #EXTINF:-1, ST-TV: BET
-http://206.212.244.63/16/index.m3u8
+https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8
 #EXTINF:-1, ST-TV: Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1, ST-TV: Bloomberg TV
@@ -66,7 +66,7 @@ http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1, ST-TV: CNBC
 http://206.212.244.63/41/index.m3u8
 #EXTINF:-1, ST-TV: CNN
-http://206.212.244.63/43/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2608.ts
 #EXTINF:-1, ST-TV: Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1, ST-TV: Comedy TV
@@ -102,7 +102,7 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1, ST-TV: E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
-http://206.212.244.63/59/index.m3u8
+https://cdn.telecloud.tv/CH3257/index.m3u8
 #EXTINF:-1, ST-TV: ESPN Deportes
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2578.ts
 #EXTINF:-1, ST-TV: ESPN News
@@ -122,7 +122,7 @@ http://206.212.244.63/66/index.m3u8
 #EXTINF:-1, ST-TV: Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1, ST-TV: Fox News
-http://206.212.244.63/67/index.m3u8
+http://45.190.28.50/FOX_NEWS/index.m3u8
 #EXTINF:-1, ST-TV: Fox Soccer Plus
 https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
 #EXTINF:-1, ST-TV: Fox Sports 1
@@ -142,7 +142,7 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1, ST-TV: FYI TV
 http://206.212.244.63/78/index.m3u8
 #EXTINF:-1, ST-TV: Game Show Network
-http://206.212.244.63/4237/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648975.ts
 #EXTINF:-1, ST-TV: getTV
 http://206.212.244.63/80/index.m3u8
 #EXTINF:-1, ST-TV: Golf Channel
@@ -190,7 +190,7 @@ http://206.212.244.63/113/index.m3u8
 #EXTINF:-1, ST-TV: MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1, ST-TV: MSNBC
-http://206.212.244.63/114/index.m3u8
+http://40.160.24.53/MSNBC/index.m3u8
 #EXTINF:-1, ST-TV: MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1, ST-TV: Nat Geo
