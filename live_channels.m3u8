@@ -24,7 +24,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2359.ts
 #EXTINF:-1, ST-TV: BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1, ST-TV: beIN Sports 1 France
-http://99.27.51.147:8080/BeinSport/mpegts
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4194
 #EXTINF:-1, ST-TV: beIN Sports en Español
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21586.ts
 #EXTINF:-1, ST-TV: beIN Sports USA
@@ -118,7 +118,7 @@ http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Fox
 http://stream.cammonitorplus.net/1752/index.m3u8
 #EXTINF:-1, ST-TV: Fox Business
-http://41.205.93.154/FOXBUSINESS/index.m3u8
+http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1, ST-TV: Fox News
@@ -324,7 +324,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_356
 #EXTINF:-1, ST-TV: TSN1
 http://40.160.24.55/TSN_1/index.m3u8
 #EXTINF:-1, ST-TV: TSN2
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
+http://40.160.24.55/TSN_2/index.m3u8
 #EXTINF:-1, ST-TV: Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1, ST-TV: TV Land
