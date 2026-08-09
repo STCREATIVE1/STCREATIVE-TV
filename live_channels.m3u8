@@ -14,21 +14,23 @@ http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1, ST-TV: Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1, ST-TV: Aspire
-https://gpuserver3.tier1streams.com/ASPIRE/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21630.ts
 #EXTINF:-1, ST-TV: AXS TV
-https://gpuserver3.tier1streams.com/AXS_TV/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/42309.ts
 #EXTINF:-1, ST-TV: BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1, ST-TV: BBC One
-http://45.90.106.117/cloud/stream/467/bbc1lonhd.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2359.ts
 #EXTINF:-1, ST-TV: BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1, ST-TV: beIN Sports 1 France
+http://99.27.51.147:8080/BeinSport/mpegts
 #EXTINF:-1, ST-TV: beIN Sports en Español
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21586.ts
 #EXTINF:-1, ST-TV: beIN Sports USA
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21585.ts
 #EXTINF:-1, ST-TV: BET
-https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647385.ts
 #EXTINF:-1, ST-TV: Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1, ST-TV: Bloomberg TV
@@ -38,11 +40,11 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1, ST-TV: Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1, ST-TV: Bravo TV
-https://gpuserver3.tier1streams.com/BRAVO/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2655.ts
 #EXTINF:-1, ST-TV: Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: C-SPAN
-https://gpuserver3.tier1streams.com/C-SPAN_HD/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/92792.ts
 #EXTINF:-1, ST-TV: Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: CBS
@@ -54,7 +56,7 @@ https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 #EXTINF:-1, ST-TV: CBS Sports Network
 https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Cheddar
-https://gpuserver3.tier1streams.com/CHEDDAR_BUSINESS/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2616.ts
 #EXTINF:-1, ST-TV: Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1, ST-TV: Cinemax Classics
@@ -64,7 +66,7 @@ http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1, ST-TV: CNBC
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: CNBC World
-https://gpuserver3.tier1streams.com/CNBC_WORLD/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3716.ts
 #EXTINF:-1, ST-TV: CNN
 https://tvsen6.aynaott.com/cnn/index.m3u8
 #EXTINF:-1, ST-TV: CNN International
@@ -82,7 +84,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo
 #EXTINF:-1, ST-TV: Cozi TV
 https://gpuserver3.tier1streams.com/COZI_TV/index.m3u8
 #EXTINF:-1, ST-TV: Crime & Investigation Network
-http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 #EXTINF:-1, ST-TV: CW
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/90546.ts
 #EXTINF:-1, ST-TV: Dabl
@@ -122,7 +124,7 @@ http://stream.cammonitorplus.net/1752/index.m3u8
 #EXTINF:-1, ST-TV: Fox Business
 https://gpuserver7.tier1streams.com/FOX_BUSINESS_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Fox Deportes
-https://bigboss.bemtv.cn/STREAM/1736/playlist.m3u8
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1, ST-TV: Fox News
 https://gpuserver3.tier1streams.com/FOX_NEWS/index.m3u8
 #EXTINF:-1, ST-TV: Fox Soccer Plus
@@ -176,7 +178,7 @@ https://gpuserver4.tier1streams.com/INVESTIGATION_DISCOVERY/index.m3u8
 #EXTINF:-1, ST-TV: ION TV
 http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:-1, ST-TV: ITV1
-http://45.90.106.126/cloud/stream/5/itv1fhd.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527497.ts
 #EXTINF:-1, ST-TV: Lifetime
 http://41.205.93.154/LIFETIME/index.m3u8
 #EXTINF:-1, ST-TV: Lifetime Movie Network
@@ -258,7 +260,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1, ST-TV: Pop TV
 https://gpuserver5.tier1streams.com/POP/index.m3u8
 #EXTINF:-1, ST-TV: Premier Sports 1
-http://79.143.16.38/cloud/stream/247/psports1fhd.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89089.ts
 #EXTINF:-1, ST-TV: Premier Sports 2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89090.ts
 #EXTINF:-1, ST-TV: Reelz Channel
@@ -274,9 +276,9 @@ https://gpuserver5.tier1streams.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1, ST-TV: Showtime Family Zone
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1, ST-TV: Sky Sports Football
-http://79.143.16.38/cloud/stream/236/ssfoothvec.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2188.ts
 #EXTINF:-1, ST-TV: Sky Sports Main Event
-http://79.143.16.38/cloud/stream/234/ssmehvec.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2184.ts
 #EXTINF:-1, ST-TV: Sky Sports News
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts
 #EXTINF:-1, ST-TV: Sky Sports Premier League
@@ -314,7 +316,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3953.ts
 #EXTINF:-1, ST-TV: Starz Kids & Family
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 #EXTINF:-1, ST-TV: STV
-http://45.90.106.117/cloud/stream/100/stvhd.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2168.ts
 #EXTINF:-1, ST-TV: Sundance
 https://gpuserver5.tier1streams.com/SUNDANCE/index.m3u8
 #EXTINF:-1, ST-TV: Syfy
