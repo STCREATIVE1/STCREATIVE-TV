@@ -6,17 +6,17 @@ http://stream.cammonitorplus.net/1790/index.m3u8
 #EXTINF:-1, ST-TV: ACC Network
 http://23.239.31.26:8989/accnetwork/index.m3u8
 #EXTINF:-1, ST-TV: Action MAX
-https://restream-live.realiptv.to/Marky0416/2c1744538b/51557
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/77246.ts
 #EXTINF:-1, ST-TV: Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1, ST-TV: Altitude Sports
-https://restream-live.realiptv.to/Marky0416/2c1744538b/332892
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/82425.ts
 #EXTINF:-1, ST-TV: AMC
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1, ST-TV: Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1, ST-TV: Aspire
-https://restream-live.realiptv.to/Marky0416/2c1744538b/21630
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/77080.ts
 #EXTINF:-1, ST-TV: AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1, ST-TV: BBC America
@@ -28,11 +28,11 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1, ST-TV: beIN Sports 1 France
 http://99.27.51.147:8080/BeinSport/mpegts
 #EXTINF:-1, ST-TV: beIN Sports en Español
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3613
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/77083.ts
 #EXTINF:-1, ST-TV: beIN Sports USA
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3612
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8528.ts
 #EXTINF:-1, ST-TV: BET
-https://restream-live.realiptv.to/Marky0416/2c1744538b/647385
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/12.ts
 #EXTINF:-1, ST-TV: Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1, ST-TV: Bloomberg TV
@@ -46,7 +46,7 @@ http://41.205.93.154/BRAVO/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ST-TV: Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: C-SPAN
-https://restream-live.realiptv.to/Marky0416/2c1744538b/92792
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/82633.ts
 #EXTINF:-1, ST-TV: Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: CBS
@@ -56,9 +56,9 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1, ST-TV: CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 #EXTINF:-1, ST-TV: CBS Sports Network
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3712
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8232.ts
 #EXTINF:-1, ST-TV: Cheddar
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2616
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/91792.ts
 #EXTINF:-1, ST-TV: Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1, ST-TV: Cinemax Classics
@@ -68,15 +68,15 @@ http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1, ST-TV: CNBC
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: CNBC World
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2609
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/29156.ts
 #EXTINF:-1, ST-TV: CNN
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2608
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/24.ts
 #EXTINF:-1, ST-TV: CNN International
 https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1, ST-TV: Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1, ST-TV: Comedy TV
-https://restream-live.realiptv.to/Marky0416/2c1744538b/77411
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/82755.ts
 #EXTINF:-1, ST-TV: Comet TV
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1, ST-TV: Cooking Channel
@@ -84,23 +84,23 @@ http://23.237.104.106:8080/USA_COOKING/index.m3u8
 #EXTINF:-1, ST-TV: Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1, ST-TV: Cozi TV
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3851
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8556.ts
 #EXTINF:-1, ST-TV: Crime & Investigation Network
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 #EXTINF:-1, ST-TV: CW
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3115
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/14111.ts
 #EXTINF:-1, ST-TV: Dabl
-https://restream-live.realiptv.to/Marky0416/2c1744538b/333484
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/94780.ts
 #EXTINF:-1, ST-TV: Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1, ST-TV: Discovery Family Channel
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2598
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/28591.ts
 #EXTINF:-1, ST-TV: Discovery Life
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2597
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/65.ts
 #EXTINF:-1, ST-TV: Discovery Science
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2595
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/66.ts
 #EXTINF:-1, ST-TV: Disney Channel
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2591
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/1301.ts
 #EXTINF:-1, ST-TV: Disney Jr
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 #EXTINF:-1, ST-TV: Disney XD
@@ -110,77 +110,79 @@ http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
 https://cdn.telecloud.tv/CH3257/index.m3u8
 #EXTINF:-1, ST-TV: ESPN (Alt)
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3725
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/82385.ts
 #EXTINF:-1, ST-TV: ESPN Deportes
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2578
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8974.ts
 #EXTINF:-1, ST-TV: ESPN News
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1, ST-TV: ESPN U
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1, ST-TV: ESPN2
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2581
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/82402.ts
+#EXTINF:-1, ST-TV: FanDuel Racing
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 #EXTINF:-1, ST-TV: Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Fox
 http://stream.cammonitorplus.net/1752/index.m3u8
 #EXTINF:-1, ST-TV: Fox Business
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3730
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/25.ts
 #EXTINF:-1, ST-TV: Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1, ST-TV: Fox News
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2543
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/26.ts
 #EXTINF:-1, ST-TV: Fox Soccer Plus
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2531
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/9569.ts
 #EXTINF:-1, ST-TV: Fox Sports 1
 https://cdn.telecloud.tv/CH3223/index.m3u8
 #EXTINF:-1, ST-TV: Fox Sports 1 (Alt)
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2501
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8242.ts
 #EXTINF:-1, ST-TV: Fox Sports 2
 https://cdn.telecloud.tv/CH3225/index.m3u8
 #EXTINF:-1, ST-TV: Fox Sports 2 (Alt)
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2500
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8243.ts
 #EXTINF:-1, ST-TV: Freeform TV
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2502
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/75.ts
 #EXTINF:-1, ST-TV: FUSE
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1, ST-TV: FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1, ST-TV: FX Movie Channel
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3736
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/79.ts
 #EXTINF:-1, ST-TV: FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1, ST-TV: FYI TV
-https://restream-live.realiptv.to/Marky0416/2c1744538b/30924
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/4714.ts
 #EXTINF:-1, ST-TV: Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1, ST-TV: Golf Channel
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2385
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/78008.ts
 #EXTINF:-1, ST-TV: Great Entertainment Television
 https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8
 #EXTINF:-1, ST-TV: Grit TV
-https://restream-live.realiptv.to/Marky0416/2c1744538b/40583
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/73422.ts
 #EXTINF:-1, ST-TV: Hallmark Channel
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 #EXTINF:-1, ST-TV: Hallmark Family
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2494
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/84.ts
 #EXTINF:-1, ST-TV: Hallmark Mystery
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2492
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/85.ts
 #EXTINF:-1, ST-TV: HBO
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2491
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/4711.ts
 #EXTINF:-1, ST-TV: HBO Comedy
-https://restream-live.realiptv.to/Marky0416/2c1744538b/648977
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8341.ts
 #EXTINF:-1, ST-TV: HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1, ST-TV: History Channel
-https://restream-live.realiptv.to/Marky0416/2c1744538b/645913
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/87.ts
 #EXTINF:-1, ST-TV: HLN TV
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1, ST-TV: IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1, ST-TV: INSP
-https://restream-live.realiptv.to/Marky0416/2c1744538b/74682
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/14110.ts
 #EXTINF:-1, ST-TV: Investigation Discovery
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3745
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/89.ts
 #EXTINF:-1, ST-TV: ION TV
 http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:-1, ST-TV: ITV1
@@ -192,29 +194,29 @@ http://41.205.93.154/LIFETIME/index.m3u8
 #EXTINF:-1, ST-TV: Lifetime Movie Network
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1, ST-TV: Marquee Sports Network
-https://restream-live.realiptv.to/Marky0416/2c1744538b/55178
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/29155.ts
 #EXTINF:-1, ST-TV: MeTV
-https://restream-live.realiptv.to/Marky0416/2c1744538b/597268
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8555.ts
 #EXTINF:-1, ST-TV: MeTV Toons
-https://restream-live.realiptv.to/Marky0416/2c1744538b/721378
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/99108.ts
 #EXTINF:-1, ST-TV: MGM Plus
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3949
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8535.ts
 #EXTINF:-1, ST-TV: MGM Plus Drive-In
-https://restream-live.realiptv.to/Marky0416/2c1744538b/4431
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/9631.ts
 #EXTINF:-1, ST-TV: MGM Plus Hits
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3724
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8536.ts
 #EXTINF:-1, ST-TV: MGM Plus Marquee
-https://restream-live.realiptv.to/Marky0416/2c1744538b/4430
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/4732.ts
 #EXTINF:-1, ST-TV: MLB Network
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3661
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8271.ts
 #EXTINF:-1, ST-TV: MLB Network Strike Zone
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 #EXTINF:-1, ST-TV: MotorTrend TV
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3747
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/4727.ts
+#EXTINF:-1, ST-TV: MS NOW
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/29.ts
 #EXTINF:-1, ST-TV: MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
-#EXTINF:-1, ST-TV: MSNBC
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2479
 #EXTINF:-1, ST-TV: MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1, ST-TV: Nat Geo
@@ -228,25 +230,25 @@ http://stream.cammonitorplus.net/1765/index.m3u8
 #EXTINF:-1, ST-TV: NBC News NOW
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1, ST-TV: NBC Sports Bay Area
-https://gpuserver7.tier1streams.com/NBC_SPORTS_NETWORK/index.m3u8
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8233.ts
 #EXTINF:-1, ST-TV: NBC Sports Boston
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2435
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8234.ts
 #EXTINF:-1, ST-TV: NBC Sports NOW
 https://jmp2.uk/stvp-USBD420002446
 #EXTINF:-1, ST-TV: NBC Sports Philadelphia
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3769
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/81854.ts
 #EXTINF:-1, ST-TV: NESN
-https://restream-live.realiptv.to/Marky0416/2c1744538b/149310
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/9160.ts
 #EXTINF:-1, ST-TV: Newsmax TV
 https://a-cdn.klowdtv.com/live2/newsmax_720p/playlist.m3u8
 #EXTINF:-1, ST-TV: NewsNation
-https://restream-live.realiptv.to/Marky0416/2c1744538b/647784
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/82102.ts
 #EXTINF:-1, ST-TV: NFL Network
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: NHL Network
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3672
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/1818.ts
 #EXTINF:-1, ST-TV: Nick Jr
-https://restream-live.realiptv.to/Marky0416/2c1744538b/74691
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/1292.ts
 #EXTINF:-1, ST-TV: Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1, ST-TV: Nicktoons
@@ -256,57 +258,73 @@ https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 #EXTINF:-1, ST-TV: Outdoor Channel
 http://23.237.104.106:8080/USA_OUTDOOR/mpegts
 #EXTINF:-1, ST-TV: Ovation
-https://restream-live.realiptv.to/Marky0416/2c1744538b/31180
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/92256.ts
 #EXTINF:-1, ST-TV: Oxygen
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3756
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/74452.ts
 #EXTINF:-1, ST-TV: Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1, ST-TV: Pop TV
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3863
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/120.ts
 #EXTINF:-1, ST-TV: Premier Sports 1
-https://restream-live.realiptv.to/Marky0416/2c1744538b/89089
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/103278.ts
 #EXTINF:-1, ST-TV: Premier Sports 2
-https://restream-live.realiptv.to/Marky0416/2c1744538b/89090
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/103279.ts
 #EXTINF:-1, ST-TV: Reelz Channel
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:-1, ST-TV: SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Showtime
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2416
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/4738.ts
 #EXTINF:-1, ST-TV: Showtime 2
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3965
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8344.ts
 #EXTINF:-1, ST-TV: Showtime Extreme
-https://restream-live.realiptv.to/Marky0416/2c1744538b/648984
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8346.ts
 #EXTINF:-1, ST-TV: Showtime Family Zone
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3969
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/82629.ts
+#EXTINF:-1, ST-TV: Sky Sports Action
+http://89.46.123.7:80/stream/436/ssactionhevc.ts
+#EXTINF:-1, ST-TV: Sky Sports Cricket
+http://89.46.123.7:80/stream/431/sscrickethevc.ts
+#EXTINF:-1, ST-TV: Sky Sports F1
+http://89.46.123.7:80/stream/454/ssf1hevc.ts
 #EXTINF:-1, ST-TV: Sky Sports Football
-http://79.143.16.38:80/stream/236/ssfoothvec.ts
+http://89.46.123.7:80/stream/434/ssfootballhevc.ts
+#EXTINF:-1, ST-TV: Sky Sports Golf
+http://89.46.123.7:80/stream/435/ssgolfhevc.ts
 #EXTINF:-1, ST-TV: Sky Sports Main Event
-http://79.143.16.38:80/stream/234/ssmehvec.ts
+http://89.46.123.7:80/stream/432/ssmainhevc.ts
+#EXTINF:-1, ST-TV: Sky Sports Mix
+http://89.46.123.7:80/stream/438/ssmixhevc.ts
 #EXTINF:-1, ST-TV: Sky Sports News
-http://79.143.16.38:80/stream/242/ssnewsfhd.ts
+http://89.46.123.7:80/stream/439/ssnewshevc.ts
+#EXTINF:-1, ST-TV: Sky Sports Plus
+http://89.46.123.7:80/stream/437/ssplushevc.ts
 #EXTINF:-1, ST-TV: Sky Sports Premier League
-http://79.143.16.38:80/stream/235/sspremhvec.ts
+http://89.46.123.7:80/stream/433/ssprehevc.ts
+#EXTINF:-1, ST-TV: Sky Sports Racing
+http://89.46.123.6:80/stream/281/ssracingsd.ts
+#EXTINF:-1, ST-TV: Sky Sports Tennis
+http://89.46.123.7:80/stream/456/sstennisfhd.ts
 #EXTINF:-1, ST-TV: Smithsonian Channel
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3812
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/127.ts
 #EXTINF:-1, ST-TV: Sony Movie Channel
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2412
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8809.ts
 #EXTINF:-1, ST-TV: Space City Home Network
-https://restream-live.realiptv.to/Marky0416/2c1744538b/663927
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8229.ts
 #EXTINF:-1, ST-TV: Spectrum SportsNet LA Dodgers
-https://restream-live.realiptv.to/Marky0416/2c1744538b/74683
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/9531.ts
 #EXTINF:-1, ST-TV: Spectrum SportsNet Lakers
-https://restream-live.realiptv.to/Marky0416/2c1744538b/512561
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/27128.ts
 #EXTINF:-1, ST-TV: Sportsnet 360
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3073
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/9580.ts
 #EXTINF:-1, ST-TV: Sportsnet East
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3072
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/9579.ts
 #EXTINF:-1, ST-TV: SportsNet New York
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2413
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/99115.ts
 #EXTINF:-1, ST-TV: Sportsnet One
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3071
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/6609.ts
 #EXTINF:-1, ST-TV: Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1, ST-TV: Starz Cinema
@@ -314,17 +332,17 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1, ST-TV: Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:-1, ST-TV: Starz Edge
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3961
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8549.ts
 #EXTINF:-1, ST-TV: Starz Encore
-https://restream-live.realiptv.to/Marky0416/2c1744538b/97562
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8545.ts
 #EXTINF:-1, ST-TV: Starz Encore Classic
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3953
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8552.ts
 #EXTINF:-1, ST-TV: Starz Kids & Family
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 #EXTINF:-1, ST-TV: STV
 http://45.90.106.117:80/stream/100/stvhd.ts
 #EXTINF:-1, ST-TV: Sundance
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3759
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8546.ts
 #EXTINF:-1, ST-TV: Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1, ST-TV: TBS
@@ -334,7 +352,7 @@ http://181.119.108.43:9001/play/a044/index.m3u8
 #EXTINF:-1, ST-TV: Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:-1, ST-TV: TLC
-https://restream-live.realiptv.to/Marky0416/2c1744538b/2594
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/148.ts
 #EXTINF:-1, ST-TV: TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: TNT Sports 1
@@ -344,23 +362,23 @@ http://79.143.16.38:80/stream/244/tnt2fhd.ts
 #EXTINF:-1, ST-TV: truTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: TSN 1
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3146
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8292.ts
 #EXTINF:-1, ST-TV: TSN 2
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3145
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8293.ts
 #EXTINF:-1, ST-TV: TSN 3
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3144
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8294.ts
 #EXTINF:-1, ST-TV: TSN 4
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3143
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8295.ts
 #EXTINF:-1, ST-TV: TSN 5
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3142
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8296.ts
 #EXTINF:-1, ST-TV: Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1, ST-TV: TV Land
-https://restream-live.realiptv.to/Marky0416/2c1744538b/614330
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/154.ts
 #EXTINF:-1, ST-TV: TV One
-https://restream-live.realiptv.to/Marky0416/2c1744538b/21897
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/155.ts
 #EXTINF:-1, ST-TV: USA Network
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3767
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/156.ts
 #EXTINF:-1, ST-TV: VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1, ST-TV: Vice TV
@@ -368,6 +386,6 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1, ST-TV: We Tv
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1, ST-TV: Willow Cricket
-https://restream-live.realiptv.to/Marky0416/2c1744538b/3972
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8522.ts
 #EXTINF:-1, ST-TV: YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
