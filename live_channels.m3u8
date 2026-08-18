@@ -186,7 +186,7 @@ https://ccctv.xyz:2096/live/n24/SUZsBNHv12/89.ts
 #EXTINF:-1, ST-TV: ION TV
 http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:-1, ST-TV: ITV1
-http://45.90.106.117:80/stream/94/itv1wal.ts
+http://45.14.84.37/itv1/index.m3u8
 #EXTINF:-1, ST-TV: Law & Crime
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 #EXTINF:-1, ST-TV: Lifetime
@@ -240,7 +240,7 @@ https://ccctv.xyz:2096/live/n24/SUZsBNHv12/81854.ts
 #EXTINF:-1, ST-TV: NESN
 https://ccctv.xyz:2096/live/n24/SUZsBNHv12/9160.ts
 #EXTINF:-1, ST-TV: Newsmax TV
-https://a-cdn.klowdtv.com/live2/newsmax_720p/playlist.m3u8
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1, ST-TV: NewsNation
 https://ccctv.xyz:2096/live/n24/SUZsBNHv12/82102.ts
 #EXTINF:-1, ST-TV: NFL Network
@@ -284,29 +284,29 @@ https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8346.ts
 #EXTINF:-1, ST-TV: Showtime Family Zone
 https://ccctv.xyz:2096/live/n24/SUZsBNHv12/82629.ts
 #EXTINF:-1, ST-TV: Sky Sports Action
-http://89.46.123.7:80/stream/436/ssactionhevc.ts
+http://stream.bottledesk.net/p/AQNASgYGemc/index.m3u8
 #EXTINF:-1, ST-TV: Sky Sports Cricket
-http://89.46.123.7:80/stream/431/sscrickethevc.ts
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/71717.ts
 #EXTINF:-1, ST-TV: Sky Sports F1
-http://89.46.123.7:80/stream/454/ssf1hevc.ts
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 #EXTINF:-1, ST-TV: Sky Sports Football
-http://89.46.123.7:80/stream/434/ssfootballhevc.ts
+https://origin.mycdn.video/skyfootball/index.m3u8
 #EXTINF:-1, ST-TV: Sky Sports Golf
-http://89.46.123.7:80/stream/435/ssgolfhevc.ts
+https://origin.mycdn.video/skygolf/index.m3u8
 #EXTINF:-1, ST-TV: Sky Sports Main Event
-http://89.46.123.7:80/stream/432/ssmainhevc.ts
+https://origin.mycdn.video/skymain/index.m3u8
 #EXTINF:-1, ST-TV: Sky Sports Mix
-http://89.46.123.7:80/stream/438/ssmixhevc.ts
+https://origin.mycdn.video/skymix/index.m3u8
 #EXTINF:-1, ST-TV: Sky Sports News
-http://89.46.123.7:80/stream/439/ssnewshevc.ts
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/71710.ts
 #EXTINF:-1, ST-TV: Sky Sports Plus
-http://89.46.123.7:80/stream/437/ssplushevc.ts
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/103267.ts
 #EXTINF:-1, ST-TV: Sky Sports Premier League
-http://89.46.123.7:80/stream/433/ssprehevc.ts
+http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 #EXTINF:-1, ST-TV: Sky Sports Racing
-http://89.46.123.6:80/stream/281/ssracingsd.ts
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/7341/index.m3u8
 #EXTINF:-1, ST-TV: Sky Sports Tennis
-http://89.46.123.7:80/stream/456/sstennisfhd.ts
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/103268.ts
 #EXTINF:-1, ST-TV: Smithsonian Channel
 https://ccctv.xyz:2096/live/n24/SUZsBNHv12/127.ts
 #EXTINF:-1, ST-TV: Sony Movie Channel
@@ -340,7 +340,7 @@ https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8552.ts
 #EXTINF:-1, ST-TV: Starz Kids & Family
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 #EXTINF:-1, ST-TV: STV
-http://45.90.106.117:80/stream/100/stvhd.ts
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/103254.ts
 #EXTINF:-1, ST-TV: Sundance
 https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8546.ts
 #EXTINF:-1, ST-TV: Syfy
@@ -356,9 +356,9 @@ https://ccctv.xyz:2096/live/n24/SUZsBNHv12/148.ts
 #EXTINF:-1, ST-TV: TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: TNT Sports 1
-http://79.143.16.38:80/stream/243/tnt1fhd.ts
+https://origin.mycdn.video/tntsport1/index.m3u8
 #EXTINF:-1, ST-TV: TNT Sports 2
-http://79.143.16.38:80/stream/244/tnt2fhd.ts
+https://origin.mycdn.video/tntsport2/index.m3u8
 #EXTINF:-1, ST-TV: truTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: TSN 1
