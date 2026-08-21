@@ -63,6 +63,8 @@ https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1, ST-TV: Cinemax Classics
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1, ST-TV: Circle Country
+https://circle-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1, ST-TV: CNBC
@@ -129,6 +131,8 @@ http://stream.cammonitorplus.net/1752/index.m3u8
 https://restream-live.realiptv.to/09145054/65339468/3730
 #EXTINF:-1, ST-TV: Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1, ST-TV: Fox LiveNOW
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Fox News
 https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1, ST-TV: Fox Soccer Plus
@@ -141,6 +145,8 @@ http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 https://cdn.telecloud.tv/CH3225/index.m3u8
 #EXTINF:-1, ST-TV: Fox Sports 2 (Alt)
 https://restream-live.realiptv.to/09145054/65339468/2500
+#EXTINF:-1, ST-TV: Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1, ST-TV: Freeform TV
 http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 #EXTINF:-1, ST-TV: FUSE
@@ -186,7 +192,7 @@ https://restream-live.realiptv.to/09145054/65339468/3745
 #EXTINF:-1, ST-TV: ION TV
 http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:-1, ST-TV: ITV1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/19185/index.m3u8
+https://restream-live.realiptv.to/09145054/65339468/527497
 #EXTINF:-1, ST-TV: Law & Crime
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 #EXTINF:-1, ST-TV: Lifetime
@@ -246,7 +252,7 @@ https://restream-live.realiptv.to/09145054/65339468/647784
 #EXTINF:-1, ST-TV: NFL Network
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: NHL Network
-https://restream-live.realiptv.to/09145054/65339468/21615
+https://restream-live.realiptv.to/09145054/65339468/3672
 #EXTINF:-1, ST-TV: Nick Jr
 https://restream-live.realiptv.to/09145054/65339468/97472
 #EXTINF:-1, ST-TV: Nickelodeon
@@ -300,9 +306,9 @@ https://restream-live.realiptv.to/09145054/65339468/2180
 #EXTINF:-1, ST-TV: Sky Sports News
 https://restream-live.realiptv.to/09145054/65339468/2183
 #EXTINF:-1, ST-TV: Sky Sports Premier League
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+https://restream-live.realiptv.to/09145054/65339468/102182
 #EXTINF:-1, ST-TV: Sky Sports Racing
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/7341/index.m3u8
+https://restream-live.realiptv.to/09145054/65339468/102182
 #EXTINF:-1, ST-TV: Smithsonian Channel
 https://restream-live.realiptv.to/09145054/65339468/3812
 #EXTINF:-1, ST-TV: Sony Movie Channel
@@ -350,9 +356,9 @@ https://restream-live.realiptv.to/09145054/65339468/2594
 #EXTINF:-1, ST-TV: TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: TNT Sports 1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/19051/index.m3u8
+https://restream-live.realiptv.to/09145054/65339468/737805
 #EXTINF:-1, ST-TV: TNT Sports 2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/19052/index.m3u8
+https://restream-live.realiptv.to/09145054/65339468/2336
 #EXTINF:-1, ST-TV: truTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: TSN 1
