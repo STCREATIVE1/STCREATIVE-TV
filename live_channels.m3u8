@@ -34,7 +34,7 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: CBS
-http://stream.cammonitorplus.net/1787/index.m3u8
+http://stream.cammonitorplus.net/1767/index.m3u8
 #EXTINF:-1, ST-TV: CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1, ST-TV: CBS Sports Golazo Network
@@ -45,6 +45,8 @@ https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1, ST-TV: Cinemax Classics
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1, ST-TV: Cinemax Hits
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1, ST-TV: Circle Country
 https://circle-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: CMT
@@ -65,6 +67,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 #EXTINF:-1, ST-TV: CW
 https://tvsen6.aynaott.com/pix11/index.m3u8
+#EXTINF:-1, ST-TV: Destination America
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 #EXTINF:-1, ST-TV: Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1, ST-TV: Disney Jr
@@ -146,7 +150,7 @@ http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:-1, ST-TV: NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1, ST-TV: NBC
-http://stream.cammonitorplus.net/1765/index.m3u8
+http://stream.cammonitorplus.net/1842/index.m3u8
 #EXTINF:-1, ST-TV: NBC News NOW
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1, ST-TV: NBC Sports NOW
@@ -167,6 +171,8 @@ http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1, ST-TV: RACER Network
+http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
 #EXTINF:-1, ST-TV: Reelz Channel
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:-1, ST-TV: SEC Network
@@ -200,7 +206,7 @@ http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:-1, ST-TV: TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: truTV
-https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1, ST-TV: TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1, ST-TV: Turner Classic Movies
