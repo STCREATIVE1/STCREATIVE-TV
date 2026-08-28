@@ -135,6 +135,8 @@ https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 http://41.205.93.154/LIFETIME/index.m3u8
 #EXTINF:-1, ST-TV: Lifetime Movie Network
 http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1, ST-TV: MeTV
+https://i1.ut770.freelocaltv.org/hls/metv-8_hls/metv-8_master.m3u8
 #EXTINF:-1, ST-TV: MeTV Toons
 https://i1.ut770.freelocaltv.org/hls/toons-8.8_hls/toons-8.8_master.m3u8
 #EXTINF:-1, ST-TV: MLB Network Strike Zone
@@ -211,6 +213,8 @@ http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1, ST-TV: Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1, ST-TV: USA Network
+http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 #EXTINF:-1, ST-TV: VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1, ST-TV: Vice TV
