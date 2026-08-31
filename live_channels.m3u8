@@ -41,6 +41,8 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 #EXTINF:-1, ST-TV: Cheddar
 https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
+#EXTINF:-1, ST-TV: Chicago Sports Network
+https://cache0.wonvt.st/live/1bt9bn80g1n8wl09axhtz/master.m3u8
 #EXTINF:-1, ST-TV: Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1, ST-TV: Cinemax Classics
@@ -65,7 +67,7 @@ http://23.237.104.106:8080/USA_COOKING/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1, ST-TV: Crime & Investigation Network
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
-#EXTINF:-1, ST-TV: CW
+#EXTINF:-1, ST-TV: CW (Alt)
 https://tvsen6.aynaott.com/pix11/index.m3u8
 #EXTINF:-1, ST-TV: Destination America
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
@@ -87,6 +89,8 @@ http://41.205.93.154/ESPNNEWS/index.m3u8
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1, ST-TV: FanDuel Racing
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+#EXTINF:-1, ST-TV: FETV
+https://cache0.wonvt.st/live/1iihbgf0gp1z3m0kzyxf8/master.m3u8
 #EXTINF:-1, ST-TV: Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Fox
@@ -99,7 +103,7 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1, ST-TV: Fox Sports 1 (Alt)
 http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
-#EXTINF:-1, ST-TV: Fox Sports 2
+#EXTINF:-1, ST-TV: Fox Sports 2 (Alt 1)
 https://tvsen7.aynascope.net/foxsports2/index.m3u8
 #EXTINF:-1, ST-TV: Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
@@ -213,13 +217,15 @@ http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1, ST-TV: Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1, ST-TV: TV Land
+https://cache0.wonvt.st/live/1d9d5fm15shhb30dnkvt0/master.m3u8
 #EXTINF:-1, ST-TV: USA Network
 http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 #EXTINF:-1, ST-TV: VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
-#EXTINF:-1, ST-TV: Vice TV
+#EXTINF:-1, ST-TV: VICE TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
-#EXTINF:-1, ST-TV: We Tv
+#EXTINF:-1, ST-TV: WE Tv
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1, ST-TV: Willow Sports
 https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8
