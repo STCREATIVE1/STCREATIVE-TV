@@ -34,15 +34,13 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: CBS
-http://stream.cammonitorplus.net/1767/index.m3u8
+http://stream.cammonitorplus.net/1771/index.m3u8
 #EXTINF:-1, ST-TV: CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1, ST-TV: CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 #EXTINF:-1, ST-TV: Cheddar
 https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
-#EXTINF:-1, ST-TV: Chicago Sports Network
-https://cache0.wonvt.st/live/1bt9bn80g1n8wl09axhtz/master.m3u8
 #EXTINF:-1, ST-TV: Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1, ST-TV: Cinemax Classics
@@ -81,16 +79,12 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
 http://stream.bottledesk.net/6500/index.m3u8
-#EXTINF:-1, ST-TV: ESPN Deportes
-http://168.228.44.241:9998/play/a0dz/index.m3u8
 #EXTINF:-1, ST-TV: ESPN News
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1, ST-TV: ESPN U
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1, ST-TV: FanDuel Racing
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
-#EXTINF:-1, ST-TV: FETV
-https://cache0.wonvt.st/live/1iihbgf0gp1z3m0kzyxf8/master.m3u8
 #EXTINF:-1, ST-TV: Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Fox
@@ -217,8 +211,6 @@ http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1, ST-TV: Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1, ST-TV: TV Land
-https://cache0.wonvt.st/live/1d9d5fm15shhb30dnkvt0/master.m3u8
 #EXTINF:-1, ST-TV: USA Network
 http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 #EXTINF:-1, ST-TV: VH1
