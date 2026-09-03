@@ -2,7 +2,7 @@
 #EXTINF:-1, ST-TV: A&E TV
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1, ST-TV: ABC
-http://stream.cammonitorplus.net/1790/index.m3u8
+http://stream.cammonitorplus.net/1766/index.m3u8
 #EXTINF:-1, ST-TV: ACC Network
 http://23.239.31.26:8989/accnetwork/index.m3u8
 #EXTINF:-1, ST-TV: Adult Swim
@@ -51,7 +51,7 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 https://circle-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:-1, ST-TV: CNBC
+#EXTINF:-1, ST-TV: CNBC World
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: CNN International
 https://jmp2.uk/stvp-GBBD8000016N
@@ -88,7 +88,7 @@ https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TV
 #EXTINF:-1, ST-TV: Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Fox
-http://stream.cammonitorplus.net/1752/index.m3u8
+http://stream.cammonitorplus.net/1792/index.m3u8
 #EXTINF:-1, ST-TV: Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1, ST-TV: Fox LiveNOW
@@ -150,7 +150,7 @@ http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:-1, ST-TV: NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1, ST-TV: NBC
-http://stream.cammonitorplus.net/1842/index.m3u8
+http://stream.cammonitorplus.net/1765/index.m3u8
 #EXTINF:-1, ST-TV: NBC News NOW
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1, ST-TV: NBC Sports NOW
@@ -170,7 +170,7 @@ http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 #EXTINF:-1, ST-TV: Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+https://i1.ut770.freelocaltv.org/hls/kuen-9_hls/kuen-9_master.m3u8
 #EXTINF:-1, ST-TV: RACER Network
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
 #EXTINF:-1, ST-TV: Reelz Channel
@@ -183,10 +183,6 @@ http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 #EXTINF:-1, ST-TV: Sky Sports Action
 http://stream.bottledesk.net/p/AQNASgYGemc/index.m3u8
-#EXTINF:-1, ST-TV: Sky Sports F1
-http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
-#EXTINF:-1, ST-TV: Sky Sports Premier League
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 #EXTINF:-1, ST-TV: Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1, ST-TV: Starz Cinema
