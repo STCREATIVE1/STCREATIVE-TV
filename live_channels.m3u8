@@ -2,7 +2,9 @@
 #EXTINF:-1, ST-TV: A&E TV
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1, ST-TV: ABC
-http://stream.cammonitorplus.net/1766/index.m3u8
+http://stream.cammonitorplus.net/1754/index.m3u8
+#EXTINF:-1, ST-TV: ABC News Live
+https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
 #EXTINF:-1, ST-TV: ACC Network
 http://23.237.104.106:8080/USA_ACCN/index.m3u8
 #EXTINF:-1, ST-TV: AccuWeather NOW
@@ -53,8 +55,6 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 https://circle-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:-1, ST-TV: CNBC
-http://41.205.93.154/CNBC/index.m3u8
 #EXTINF:-1, ST-TV: CNBC World
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: CNN International
@@ -163,6 +163,8 @@ https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 #EXTINF:-1, ST-TV: Newsmax TV
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1, ST-TV: Newsmax2
+https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: NFL Network
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: Nick Jr
@@ -201,14 +203,24 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 #EXTINF:-1, ST-TV: Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1, ST-TV: TBS
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1, ST-TV: TBS West
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: Telemundo
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:-1, ST-TV: Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:-1, ST-TV: The Weather Channel
 https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index.m3u8
+#EXTINF:-1, ST-TV: TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1, ST-TV: TNT West
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: truTV
-http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1, ST-TV: truTV West
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1, ST-TV: Turner Classic Movies
