@@ -106,7 +106,7 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Fox News (Alt)
 https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1, ST-TV: Fox Sports 1
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1, ST-TV: Fox Sports 2
 https://tvsen7.aynascope.net/foxsports2/index.m3u8
 #EXTINF:-1, ST-TV: Fox Weather
@@ -139,8 +139,6 @@ http://23.237.104.106:8080/USA_ION/index.m3u8
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 #EXTINF:-1, ST-TV: Lifetime
 http://41.205.93.154/LIFETIME/index.m3u8
-#EXTINF:-1, ST-TV: Lifetime Movie Network
-http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1, ST-TV: MeTV
 https://i1.ut770.freelocaltv.org/hls/metv-8_hls/metv-8_master.m3u8
 #EXTINF:-1, ST-TV: MeTV Toons
@@ -171,8 +169,6 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Nick Jr
 http://212.5.144.156:8080/nickjr/index.m3u8
-#EXTINF:-1, ST-TV: Nickelodeon
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1, ST-TV: Nicktoons
 http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1, ST-TV: One America News
