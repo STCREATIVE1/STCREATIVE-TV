@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, ST-TV: A&E TV
 http://23.239.31.26:8989/aande/index.m3u8
-#EXTINF:-1, ST-TV: ABC
-https://i1.ut770.freelocaltv.org/hls/ktvx-4_hls/ktvx-4_master.m3u8
 #EXTINF:-1, ST-TV: ABC News Live
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
 #EXTINF:-1, ST-TV: ACC Digital Network
@@ -41,8 +39,6 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: CBC News Network
 https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
-#EXTINF:-1, ST-TV: CBS
-https://i1.ut770.freelocaltv.org/hls/kutv-2_hls/kutv-2_master.m3u8
 #EXTINF:-1, ST-TV: CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1, ST-TV: CBS Sports Golazo Network
@@ -76,7 +72,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo
 #EXTINF:-1, ST-TV: Crime & Investigation Network
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 #EXTINF:-1, ST-TV: CW
-https://i1.ut770.freelocaltv.org/hls/kucw-30_hls/kucw-30_master.m3u8
+https://tvsen6.aynaott.com/pix11/index.m3u8
 #EXTINF:-1, ST-TV: Destination America
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 #EXTINF:-1, ST-TV: Disney Channel
@@ -89,16 +85,18 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
 http://stream.bottledesk.net/6500/index.m3u8
+#EXTINF:-1, ST-TV: ESPN Deportes
+http://168.228.44.241:9998/play/a0dz/index.m3u8
 #EXTINF:-1, ST-TV: ESPN News
 http://41.205.93.154/ESPNNEWS/index.m3u8
+#EXTINF:-1, ST-TV: ESPN U
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1, ST-TV: FanDuel Racing
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 #EXTINF:-1, ST-TV: FloRacing 24/7
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
-#EXTINF:-1, ST-TV: Fox
-https://i1.ut770.freelocaltv.org/hls/kstu-13_hls/kstu-13_master.m3u8
 #EXTINF:-1, ST-TV: Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1, ST-TV: Fox LiveNOW
@@ -106,7 +104,7 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Fox News (Alt)
 https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1, ST-TV: Fox Sports 1
-http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1, ST-TV: Fox Sports 2
 https://tvsen7.aynascope.net/foxsports2/index.m3u8
 #EXTINF:-1, ST-TV: Fox Weather
@@ -139,10 +137,6 @@ http://23.237.104.106:8080/USA_ION/index.m3u8
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 #EXTINF:-1, ST-TV: Lifetime
 http://41.205.93.154/LIFETIME/index.m3u8
-#EXTINF:-1, ST-TV: MeTV
-https://i1.ut770.freelocaltv.org/hls/metv-8_hls/metv-8_master.m3u8
-#EXTINF:-1, ST-TV: MeTV Toons
-https://i1.ut770.freelocaltv.org/hls/toons-8.8_hls/toons-8.8_master.m3u8
 #EXTINF:-1, ST-TV: MLB Network Strike Zone
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 #EXTINF:-1, ST-TV: MSG
@@ -157,8 +151,6 @@ http://198.58.104.90:8989/natgeo/index.m3u8
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:-1, ST-TV: NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:-1, ST-TV: NBC
-https://i1.ut770.freelocaltv.org/hls/ksl-5_hls/ksl-5_master.m3u8
 #EXTINF:-1, ST-TV: NBC News NOW
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1, ST-TV: NBC Sports NOW
@@ -177,8 +169,6 @@ https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 #EXTINF:-1, ST-TV: Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1, ST-TV: PBS Kids
-https://i1.ut770.freelocaltv.org/hls/kuen-9_hls/kuen-9_master.m3u8
 #EXTINF:-1, ST-TV: RACER Network
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
 #EXTINF:-1, ST-TV: Reelz Channel
@@ -191,8 +181,6 @@ http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1, ST-TV: Sky News
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/843b9d8c-6622-4872-a404-87fbbf02c829/4.m3u8
-#EXTINF:-1, ST-TV: Sky Sports Action
-http://stream.bottledesk.net/p/AQNASgYGemc/index.m3u8
 #EXTINF:-1, ST-TV: Spectrum News+
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/589e9668-62d2-4ace-b695-14ea749d4ec0/2.m3u8
 #EXTINF:-1, ST-TV: Starz Cinema
