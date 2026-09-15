@@ -20,7 +20,7 @@ https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
 #EXTINF:-1, ST-TV: BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1, ST-TV: BBC One
-http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
+http://41.205.93.154/BBCONE/index.m3u8
 #EXTINF:-1, ST-TV: BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1, ST-TV: Big Ten Network
@@ -32,7 +32,7 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1, ST-TV: Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1, ST-TV: Bravo TV
-http://41.205.93.154/BRAVO/tracks-v1a1/mono.m3u8
+http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1, ST-TV: Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Cartoon Network
@@ -63,6 +63,8 @@ https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlis
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/90541a38-680a-49bd-b338-b360726f0422/3.m3u8
 #EXTINF:-1, ST-TV: CNN International
 https://jmp2.uk/stvp-GBBD8000016N
+#EXTINF:-1, ST-TV: Comedy Central
+https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8
 #EXTINF:-1, ST-TV: Comet TV
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1, ST-TV: Cooking Channel
@@ -181,6 +183,12 @@ http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1, ST-TV: Sky News
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/843b9d8c-6622-4872-a404-87fbbf02c829/4.m3u8
+#EXTINF:-1, ST-TV: Sky Sports Action
+http://stream.bottledesk.net/p/AQNASgYGemc/index.m3u8
+#EXTINF:-1, ST-TV: Sky Sports F1
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+#EXTINF:-1, ST-TV: Sky Sports Premier League
+http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 #EXTINF:-1, ST-TV: Spectrum News+
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/589e9668-62d2-4ace-b695-14ea749d4ec0/2.m3u8
 #EXTINF:-1, ST-TV: Starz Cinema
