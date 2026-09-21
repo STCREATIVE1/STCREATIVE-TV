@@ -79,8 +79,6 @@ http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 #EXTINF:-1, ST-TV: Disney Channel
 http://212.5.144.156:8080/disney/index.m3u8
-#EXTINF:-1, ST-TV: Disney Jr
-http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 #EXTINF:-1, ST-TV: Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1, ST-TV: E! Entertainment
@@ -167,8 +165,6 @@ http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: RACER Network
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
-#EXTINF:-1, ST-TV: Reelz Channel
-http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:-1, ST-TV: Reuters 60
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e4161629-c2c1-465c-bce8-b59e4885e7fd/3.m3u8
 #EXTINF:-1, ST-TV: Science Channel
@@ -202,7 +198,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_356
 #EXTINF:-1, ST-TV: TBS West
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: Telemundo
-http://186.33.0.57:8000/play/a020/index.m3u8
+http://195.178.110.110:80/telemundo/index.m3u8
 #EXTINF:-1, ST-TV: Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:-1, ST-TV: Tennis Channel 2
