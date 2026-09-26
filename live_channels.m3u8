@@ -101,8 +101,6 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1, ST-TV: Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1, ST-TV: Freeform TV
-http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 #EXTINF:-1, ST-TV: FUSE
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1, ST-TV: Game Show Central
