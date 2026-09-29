@@ -85,6 +85,8 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 http://stream.bottledesk.net/6500/index.m3u8
 #EXTINF:-1, ST-TV: ESPN Deportes
 http://186.33.0.101:4430/play/espnhd/index.m3u8
+#EXTINF:-1, ST-TV: ESPN2
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 #EXTINF:-1, ST-TV: ESPNEWS
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1, ST-TV: ESPNU
@@ -145,6 +147,8 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1, ST-TV: NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1, ST-TV: NBC Sports Philadelphia
+http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1, ST-TV: Newsmax TV
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1, ST-TV: Newsmax2
