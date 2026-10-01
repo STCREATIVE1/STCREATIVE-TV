@@ -33,8 +33,6 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1, ST-TV: Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
-#EXTINF:-1, ST-TV: Bravo TV
-http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1, ST-TV: Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Cartoon Network
@@ -126,7 +124,7 @@ http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1, ST-TV: ION TV
 http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:-1, ST-TV: ITV1
-http://176.65.153.4:4004/play/a07k/index.m3u8
+http://176.65.153.4:4004/play/a07n/index.m3u8
 #EXTINF:-1, ST-TV: Law & Crime
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 #EXTINF:-1, ST-TV: MLB Network Strike Zone
