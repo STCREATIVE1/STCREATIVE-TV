@@ -5,8 +5,6 @@ http://23.239.31.26:8989/aande/index.m3u8
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
 #EXTINF:-1, ST-TV: ACC Digital Network
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/37d38805-03d5-45f5-b40d-4ec9524040e5/4.m3u8
-#EXTINF:-1, ST-TV: ACC Network
-http://23.237.104.106:8080/USA_ACCN/index.m3u8
 #EXTINF:-1, ST-TV: AccuWeather NOW
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Adult Swim
@@ -14,29 +12,25 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 #EXTINF:-1, ST-TV: AMC
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1, ST-TV: Animal Planet
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1, ST-TV: AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1, ST-TV: BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1, ST-TV: BBC One
-http://41.205.93.154/BBCONE/index.m3u8
+http://176.65.153.4:4001/play/a08e/index.m3u8
 #EXTINF:-1, ST-TV: BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1, ST-TV: beIN Sports XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1, ST-TV: Big Ten Network
-http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1, ST-TV: Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1, ST-TV: Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1, ST-TV: Bounce TV
+#EXTINF:-1, ST-TV: Bounce
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1, ST-TV: Buzzr
-https://buzzrota-web.amagi.tv/playlist.m3u8
-#EXTINF:-1, ST-TV: Cartoon Network
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+http://23.237.104.106:8080/USA_BUZZR/index.m3u8
 #EXTINF:-1, ST-TV: CBC News Network
 https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
 #EXTINF:-1, ST-TV: CBS News 24/7
@@ -47,16 +41,12 @@ https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1, ST-TV: Cheddar
 https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
-#EXTINF:-1, ST-TV: Cinemax
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1, ST-TV: Cinemax Classics
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1, ST-TV: Cinemax Hits
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1, ST-TV: Circle Country
 https://circle-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1, ST-TV: CMT
-http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1, ST-TV: CNBC World
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: CNN Headlines
@@ -71,12 +61,8 @@ http://23.237.104.106:8080/USA_COOKING/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1, ST-TV: Crime & Investigation Network
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
-#EXTINF:-1, ST-TV: Destination America
-http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 #EXTINF:-1, ST-TV: Disney Channel
 http://212.5.144.156:8080/disney/index.m3u8
-#EXTINF:-1, ST-TV: Disney XD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
 http://stream.bottledesk.net/6500/index.m3u8
 #EXTINF:-1, ST-TV: ESPN Deportes
@@ -109,14 +95,10 @@ https://wurlgameshownetwork.global.transmit.live/hls/68d174d50531b397b61a7797/v1
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1, ST-TV: Great Entertainment Television
 https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8
-#EXTINF:-1, ST-TV: HBO Zone
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1, ST-TV: Heartland
 https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8
 #EXTINF:-1, ST-TV: History Channel
 http://212.5.144.156:8080/history/index.m3u8
-#EXTINF:-1, ST-TV: HLN TV
-http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1, ST-TV: IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1, ST-TV: ION TV
@@ -157,8 +139,6 @@ http://212.5.144.156:8080/nickjr/index.m3u8
 http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1, ST-TV: One America News
 https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
-#EXTINF:-1, ST-TV: Outdoor Channel
-http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 #EXTINF:-1, ST-TV: Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: RACER Network
@@ -208,7 +188,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:-1, ST-TV: TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: truTV
-https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1, ST-TV: truTV West
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: TUDN
