@@ -5,6 +5,8 @@ http://23.239.31.26:8989/aande/index.m3u8
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
 #EXTINF:-1, ST-TV: ACC Digital Network
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/37d38805-03d5-45f5-b40d-4ec9524040e5/4.m3u8
+#EXTINF:-1, ST-TV: ACC Network
+http://23.239.31.26:8989/accnetwork/index.m3u8
 #EXTINF:-1, ST-TV: AccuWeather NOW
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Adult Swim
@@ -18,7 +20,7 @@ http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1, ST-TV: BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1, ST-TV: BBC One
-http://176.65.153.4:4001/play/a08e/index.m3u8
+http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ST-TV: BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1, ST-TV: beIN Sports XTRA
@@ -163,8 +165,6 @@ http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 #EXTINF:-1, ST-TV: Spectrum News+
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/589e9668-62d2-4ace-b695-14ea749d4ec0/2.m3u8
-#EXTINF:-1, ST-TV: Starz Cinema
-http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1, ST-TV: Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:-1, ST-TV: Starz Kids & Family
