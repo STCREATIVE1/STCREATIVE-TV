@@ -12,7 +12,7 @@ https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1, ST-TV: AMC
-http://23.239.31.26:8989/amc/index.m3u8
+http://41.205.93.154/AMC/index.m3u8
 #EXTINF:-1, ST-TV: Animal Planet
 http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1, ST-TV: AXS TV
@@ -25,12 +25,16 @@ http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1, ST-TV: beIN Sports XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1, ST-TV: Big Ten Network
+http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1, ST-TV: Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1, ST-TV: Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1, ST-TV: Bounce
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:-1, ST-TV: Bravo TV
+http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1, ST-TV: Buzzr
 http://23.237.104.106:8080/USA_BUZZR/index.m3u8
 #EXTINF:-1, ST-TV: CBC News Network
@@ -49,6 +53,10 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1, ST-TV: Circle Country
 https://circle-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1, ST-TV: CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1, ST-TV: CNBC
+http://41.205.93.154/CNBC/index.m3u8
 #EXTINF:-1, ST-TV: CNBC World
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: CNN Headlines
@@ -65,6 +73,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 #EXTINF:-1, ST-TV: Disney Channel
 http://212.5.144.156:8080/disney/index.m3u8
+#EXTINF:-1, ST-TV: E! Entertainment
+http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
 http://stream.bottledesk.net/6500/index.m3u8
 #EXTINF:-1, ST-TV: ESPN Deportes
@@ -95,6 +105,8 @@ http://23.237.104.106:8080/USA_FUSE/index.m3u8
 https://wurlgameshownetwork.global.transmit.live/hls/68d174d50531b397b61a7797/v1/gsn_gameshowchannnel_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1, ST-TV: Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1, ST-TV: GOL TV
+http://23.237.104.106:8080/USA_GOLTV/index.m3u8
 #EXTINF:-1, ST-TV: Great Entertainment Television
 https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8
 #EXTINF:-1, ST-TV: Heartland
@@ -120,7 +132,7 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1, ST-TV: MTV Live
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1, ST-TV: Nat Geo
-http://198.58.104.90:8989/natgeo/index.m3u8
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1, ST-TV: Nat Geo Wild
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:-1, ST-TV: NBA TV
@@ -140,7 +152,11 @@ http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1, ST-TV: Nicktoons
 http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1, ST-TV: One America News
-https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
+http://23.237.104.106:8080/USA_OAN/index.m3u8
+#EXTINF:-1, ST-TV: Oprah Winfrey Network
+http://23.237.104.106:8080/USA_OWN/index.m3u8
+#EXTINF:-1, ST-TV: Outdoor Channel
+http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 #EXTINF:-1, ST-TV: Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1, ST-TV: RACER Network
@@ -179,6 +195,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: Telemundo
 http://195.178.110.110:80/telemundo/index.m3u8
+#EXTINF:-1, ST-TV: Tennis Channel
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:-1, ST-TV: Tennis Channel 2
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c7dbf944-ca35-4a39-a52a-5ecfbcc83dda/4.m3u8
 #EXTINF:-1, ST-TV: The Weather Channel
