@@ -12,11 +12,11 @@ https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1, ST-TV: AMC
-http://41.205.93.154/AMC/index.m3u8
+http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1, ST-TV: Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1, ST-TV: AXS TV
-https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
+http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1, ST-TV: BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1, ST-TV: BBC One
@@ -31,12 +31,12 @@ http://23.237.104.106:8080/USA_BTN/index.m3u8
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1, ST-TV: Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1, ST-TV: Bounce
-http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:-1, ST-TV: Bounce XL
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8e6ed441-f0dd-47af-804b-fc6a9c186932/4.m3u8
 #EXTINF:-1, ST-TV: Bravo TV
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1, ST-TV: Buzzr
-http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+https://buzzrota-ono.amagi.tv/playlist720p.m3u8
 #EXTINF:-1, ST-TV: CBC News Network
 https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
 #EXTINF:-1, ST-TV: CBS News 24/7
@@ -79,8 +79,6 @@ http://23.237.104.106:8080/USA_WGN/index.m3u8
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 #EXTINF:-1, ST-TV: Disney Channel
 http://212.5.144.156:8080/disney/index.m3u8
-#EXTINF:-1, ST-TV: Disney Channel (Alt)
-https://tvsen7.aynaott.com/disney/index.m3u8
 #EXTINF:-1, ST-TV: E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
@@ -129,12 +127,12 @@ https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
 https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8
 #EXTINF:-1, ST-TV: History Channel
 http://212.5.144.156:8080/history/index.m3u8
-#EXTINF:-1, ST-TV: History Channel (Alt)
-https://tvsen3.aynaott.com/np3JstRE/index.m3u8
 #EXTINF:-1, ST-TV: HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
+#EXTINF:-1, ST-TV: IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1, ST-TV: ION TV
-http://23.237.104.106:8080/USA_ION/index.m3u8
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/2cafedb5-9ec8-4103-a8d1-3c3a4aaf4ea3/1.m3u8
 #EXTINF:-1, ST-TV: ITV1
 http://176.65.153.4:4004/play/a07n/index.m3u8
 #EXTINF:-1, ST-TV: Laff
@@ -145,8 +143,6 @@ https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/chunklist.m3u8?origin=1
 #EXTINF:-1, ST-TV: MLB Network Strike Zone
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
-#EXTINF:-1, ST-TV: MSG
-http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1, ST-TV: MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1, ST-TV: MTV Live
@@ -155,6 +151,8 @@ http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1, ST-TV: Nat Geo Wild
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
+#EXTINF:-1, ST-TV: NBA TV
+http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1, ST-TV: NBC News NOW
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1, ST-TV: NBC Sports NOW
@@ -172,9 +170,7 @@ http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1, ST-TV: Nicktoons
 http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1, ST-TV: One America News
-http://23.237.104.106:8080/USA_OAN/index.m3u8
-#EXTINF:-1, ST-TV: Oprah Winfrey Network
-http://23.237.104.106:8080/USA_OWN/index.m3u8
+https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 #EXTINF:-1, ST-TV: Outdoor Channel
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 #EXTINF:-1, ST-TV: Paramount Network
@@ -215,6 +211,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: Telemundo
 http://45.70.168.162:80/play/a01k/index.m3u8
+#EXTINF:-1, ST-TV: Tennis Channel
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:-1, ST-TV: Tennis Channel 2
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c7dbf944-ca35-4a39-a52a-5ecfbcc83dda/4.m3u8
 #EXTINF:-1, ST-TV: The Weather Channel
