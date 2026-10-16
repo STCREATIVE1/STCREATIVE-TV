@@ -227,18 +227,26 @@
         }
 
         function renderData(data) {
-            // Handle different JSON structures (whether array or object containing items/matches/events)
             let items = [];
+            
+            // Universal JSON data extractor
             if (Array.isArray(data)) {
                 items = data;
-            } else if (data.events && Array.isArray(data.events)) {
-                items = data.events;
-            } else if (data.matches && Array.isArray(data.matches)) {
-                items = data.matches;
-            } else {
-                // Fallback: extract arrays from object values
-                const foundKey = Object.keys(data).find(k => Array.isArray(data[k]));
-                items = foundKey ? data[foundKey] : [data];
+            } else if (data && typeof data === 'object') {
+                if (Array.isArray(data.events)) items = data.events;
+                else if (Array.isArray(data.matches)) items = data.matches;
+                else if (Array.isArray(data.data)) items = data.data;
+                else if (Array.isArray(data.fixtures)) items = data.fixtures;
+                else if (Array.isArray(data.items)) items = data.items;
+                else {
+                    // Find the first available array inside the root object properties
+                    const foundKey = Object.keys(data).find(k => Array.isArray(data[k]));
+                    if (foundKey) {
+                        items = data[foundKey];
+                    } else {
+                        items = [data]; // Single object fallback
+                    }
+                }
             }
 
             const sliderContainer = document.getElementById('slider-container');
@@ -247,13 +255,19 @@
             sliderContainer.innerHTML = '';
             gridContainer.innerHTML = '';
 
+            if (!items || items.length === 0) {
+                sliderContainer.innerHTML = '<p class="text-slate-400 text-sm">No upcoming matches found in the feed.</p>';
+                gridContainer.innerHTML = '<p class="text-slate-400 text-sm">No fixtures available.</p>';
+                return;
+            }
+
             items.forEach((item, index) => {
-                const title = item.title || item.name || item.match || item.tournament || `ICC Event #${index + 1}`;
-                const subtitle = item.subtitle || item.category || item.status || 'International Fixture';
+                const title = item.title || item.name || item.match || item.tournament || item.team || `ICC Event #${index + 1}`;
+                const subtitle = item.subtitle || item.category || item.status || item.type || 'International Fixture';
                 const date = item.date || item.time || item.schedule || 'Upcoming';
-                const image = item.image || item.poster || item.thumbnail || 'https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=600&q=80';
-                const description = item.description || item.details || item.venue || 'Catch all live action, scores, and broadcast feeds in premium quality.';
-                const streamUrl = item.url || item.link || item.stream || '#';
+                const image = item.image || item.poster || item.thumbnail || item.img || 'https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=600&q=80';
+                const description = item.description || item.details || item.venue || item.info || 'Catch all live action, scores, and broadcast feeds in premium quality.';
+                const streamUrl = item.url || item.link || item.stream || item.source || '#';
 
                 const cardHTML = `
                     <div class="glass-panel rounded-2xl overflow-hidden border border-slate-800 hover:border-cyan-500/50 transition duration-300 group flex flex-col justify-between">
@@ -282,7 +296,7 @@
                     </div>
                 `;
 
-                // Slider Card (with fixed min-width for horizontal sliding)
+                // Slider Card
                 const sliderCardWrapper = document.createElement('div');
                 sliderCardWrapper.className = 'min-w-[300px] sm:min-w-[350px] max-w-[350px] snap-start flex-shrink-0';
                 sliderCardWrapper.innerHTML = cardHTML;
