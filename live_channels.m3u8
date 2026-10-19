@@ -20,7 +20,7 @@ http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1, ST-TV: BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1, ST-TV: BBC One
-http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
+http://176.65.153.4:4001/play/a08e/index.m3u8
 #EXTINF:-1, ST-TV: BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1, ST-TV: beIN Sports XTRA
@@ -55,8 +55,6 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 https://circle-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:-1, ST-TV: CNBC
-http://41.205.93.154/CNBC/index.m3u8
 #EXTINF:-1, ST-TV: CNBC World
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: CNN Headlines
@@ -101,8 +99,6 @@ http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 https://tvsen6.aynaott.com/fox5/index.m3u8
 #EXTINF:-1, ST-TV: Fox Business
 https://tvsen6.aynaott.com/foxbusiness/index.m3u8
-#EXTINF:-1, ST-TV: Fox Deportes
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1, ST-TV: Fox LiveNOW
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Fox Sports 1
@@ -175,8 +171,6 @@ https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 #EXTINF:-1, ST-TV: Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1, ST-TV: RACER Network
-http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
 #EXTINF:-1, ST-TV: Real America's Voice
 https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
 #EXTINF:-1, ST-TV: Reuters 60
