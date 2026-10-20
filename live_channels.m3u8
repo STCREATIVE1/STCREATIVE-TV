@@ -33,8 +33,6 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1, ST-TV: Bounce XL
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8e6ed441-f0dd-47af-804b-fc6a9c186932/4.m3u8
-#EXTINF:-1, ST-TV: Bravo TV
-http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1, ST-TV: Buzzr
 https://buzzrota-ono.amagi.tv/playlist720p.m3u8
 #EXTINF:-1, ST-TV: CBC News Network
@@ -75,6 +73,8 @@ http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 http://23.237.104.106:8080/USA_WGN/index.m3u8
 #EXTINF:-1, ST-TV: Destination America
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+#EXTINF:-1, ST-TV: Discovery Channel
+http://212.5.144.156:8080/discovery/index.m3u8
 #EXTINF:-1, ST-TV: Disney Channel
 http://212.5.144.156:8080/disney/index.m3u8
 #EXTINF:-1, ST-TV: E! Entertainment
@@ -85,8 +85,6 @@ http://stream.bottledesk.net/6500/index.m3u8
 http://186.33.0.101:4430/play/espnhd/index.m3u8
 #EXTINF:-1, ST-TV: ESPN2
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
-#EXTINF:-1, ST-TV: ESPNEWS
-http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1, ST-TV: ESPNU
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1, ST-TV: FanDuel Racing
@@ -127,6 +125,8 @@ http://212.5.144.156:8080/history/index.m3u8
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1, ST-TV: IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1, ST-TV: Investigation Discovery
+http://212.5.144.156:8080/id/index.m3u8
 #EXTINF:-1, ST-TV: ION TV
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/2cafedb5-9ec8-4103-a8d1-3c3a4aaf4ea3/1.m3u8
 #EXTINF:-1, ST-TV: ITV1
@@ -160,17 +160,23 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1, ST-TV: Newsmax2
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: NFL Network
-https://tvsen6.aynaott.com/nfl/index.m3u8
+http://198.58.104.90:8989/nfl/index.m3u8
 #EXTINF:-1, ST-TV: Nick Jr
 http://212.5.144.156:8080/nickjr/index.m3u8
+#EXTINF:-1, ST-TV: Nickelodeon
+http://198.58.104.90:8989/nickelodeon/index.m3u8
 #EXTINF:-1, ST-TV: Nicktoons
 http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1, ST-TV: One America News
 https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 #EXTINF:-1, ST-TV: Outdoor Channel
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
+#EXTINF:-1, ST-TV: Oxygen True Crime
+http://198.58.104.90:8989/oxygen/index.m3u8
 #EXTINF:-1, ST-TV: Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1, ST-TV: PBS Kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1, ST-TV: Real America's Voice
 https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
 #EXTINF:-1, ST-TV: Reuters 60
@@ -212,7 +218,7 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 #EXTINF:-1, ST-TV: The Weather Channel
 https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index.m3u8
 #EXTINF:-1, ST-TV: TLC
-https://tvsen3.aynaott.com/EJagkNL2/index.m3u8
+http://41.205.93.154/TLC/index.m3u8
 #EXTINF:-1, ST-TV: TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: TNT West
