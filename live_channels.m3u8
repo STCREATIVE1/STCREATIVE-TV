@@ -127,6 +127,8 @@ http://212.5.144.156:8080/history/index.m3u8
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1, ST-TV: IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1, ST-TV: Investigation Discovery
+http://212.5.144.156:8080/id/index.m3u8
 #EXTINF:-1, ST-TV: ION TV
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/2cafedb5-9ec8-4103-a8d1-3c3a4aaf4ea3/1.m3u8
 #EXTINF:-1, ST-TV: ITV1
@@ -161,6 +163,8 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: NFL Network
 https://tvsen6.aynaott.com/nfl/index.m3u8
+#EXTINF:-1, ST-TV: Nick Jr
+http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1, ST-TV: Nickelodeon
 http://198.58.104.90:8989/nickelodeon/index.m3u8
 #EXTINF:-1, ST-TV: Nicktoons
