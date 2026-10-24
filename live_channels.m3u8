@@ -13,6 +13,8 @@ https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1, ST-TV: AMC
 http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1, ST-TV: American Heroes Channel
+http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
 #EXTINF:-1, ST-TV: Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1, ST-TV: AXS TV
@@ -117,10 +119,16 @@ https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 https://tvsen6.aynaott.com/golfchannel/index.m3u8
 #EXTINF:-1, ST-TV: Great Entertainment Television
 https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8
+#EXTINF:-1, ST-TV: Hallmark Mystery
+http://41.205.93.154/HALLMARK/index.m3u8
+#EXTINF:-1, ST-TV: HBO
+http://tvsen7.aynascope.net/hbo/index.m3u8
 #EXTINF:-1, ST-TV: HBO Hits
 https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
 #EXTINF:-1, ST-TV: Heartland
 https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8
+#EXTINF:-1, ST-TV: HGTV
+http://tvsen7.aynascope.net/hgtv/index.m3u8
 #EXTINF:-1, ST-TV: History Channel
 http://212.5.144.156:8080/history/index.m3u8
 #EXTINF:-1, ST-TV: HLN
@@ -171,6 +179,8 @@ http://198.58.104.90:8989/nickelodeon/index.m3u8
 http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1, ST-TV: One America News
 https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
+#EXTINF:-1, ST-TV: Oprah Winfrey Network
+http://23.237.104.106:8080/USA_OWN/index.m3u8
 #EXTINF:-1, ST-TV: Outdoor Channel
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 #EXTINF:-1, ST-TV: Paramount Network
@@ -181,6 +191,8 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
 #EXTINF:-1, ST-TV: Reuters 60
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e4161629-c2c1-465c-bce8-b59e4885e7fd/3.m3u8
+#EXTINF:-1, ST-TV: Revolt
+http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 #EXTINF:-1, ST-TV: Science Channel
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
 #EXTINF:-1, ST-TV: SEC Network
@@ -199,7 +211,7 @@ http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/589e9668-62d2-4ace-b695-14ea749d4ec0/2.m3u8
 #EXTINF:-1, ST-TV: Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-#EXTINF:-1, ST-TV: Starz Kids & Family
+#EXTINF:-1, ST-TV: Starz Encore Family
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 #EXTINF:-1, ST-TV: STV
 http://176.65.153.4:4007/play/a073/index.m3u8
