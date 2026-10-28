@@ -201,8 +201,6 @@ http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 http://176.65.153.4:4007/play/a073/index.m3u8
 #EXTINF:-1, ST-TV: Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1, ST-TV: TBS
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: TBS West
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: Telemundo
