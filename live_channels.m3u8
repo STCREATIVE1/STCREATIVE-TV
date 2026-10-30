@@ -64,13 +64,17 @@ https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlis
 #EXTINF:-1, ST-TV: CNN Headlines
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/90541a38-680a-49bd-b338-b360726f0422/3.m3u8
 #EXTINF:-1, ST-TV: CNN International
-https://jmp2.uk/stvp-GBBD8000016N
+https://vid.hls.protv.ro/liveibu8/liveibu8_highw/index.m3u8?1
+#EXTINF:-1, ST-TV: Comedy Central
+https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8
 #EXTINF:-1, ST-TV: Comet TV
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1, ST-TV: Cooking Channel
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
 #EXTINF:-1, ST-TV: Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1, ST-TV: Create
+https://create.lls.pbs.org/index.m3u8
 #EXTINF:-1, ST-TV: Crime & Investigation Network
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 #EXTINF:-1, ST-TV: CW
@@ -81,6 +85,8 @@ http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 http://212.5.144.156:8080/discovery/index.m3u8
 #EXTINF:-1, ST-TV: Disney Channel
 http://212.5.144.156:8080/disney/index.m3u8
+#EXTINF:-1, ST-TV: Disney Channel (Alt)
+https://tvsen5.aynaott.com/disney/index.m3u8
 #EXTINF:-1, ST-TV: E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
@@ -97,6 +103,10 @@ https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TV
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:-1, ST-TV: Fox
+https://tvsen6.aynaott.com/fox5/index.m3u8
+#EXTINF:-1, ST-TV: Fox Business
+https://tvsen6.aynaott.com/foxbusiness/index.m3u8
 #EXTINF:-1, ST-TV: Fox LiveNOW
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Fox Sports 1
@@ -109,12 +119,20 @@ http://23.237.104.106:8080/USA_FUSE/index.m3u8
 https://wurlgameshownetwork.global.transmit.live/hls/68d174d50531b397b61a7797/v1/gsn_gameshowchannnel_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1, ST-TV: Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1, ST-TV: Golf Channel
+https://tvsen6.aynaott.com/golfchannel/index.m3u8
 #EXTINF:-1, ST-TV: Great Entertainment Television
 https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8
+#EXTINF:-1, ST-TV: HBO Hits
+https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
 #EXTINF:-1, ST-TV: Heartland
 https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8
+#EXTINF:-1, ST-TV: HGTV
+https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8
 #EXTINF:-1, ST-TV: History Channel
 http://212.5.144.156:8080/history/index.m3u8
+#EXTINF:-1, ST-TV: History Channel (Alt)
+https://tvsen3.aynaott.com/np3JstRE/index.m3u8
 #EXTINF:-1, ST-TV: HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1, ST-TV: IFC
@@ -129,8 +147,8 @@ http://176.65.153.4:4004/play/a07n/index.m3u8
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 #EXTINF:-1, ST-TV: Living Faith TV
 https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/chunklist.m3u8?origin=1
-#EXTINF:-1, ST-TV: MLB Network Strike Zone
-http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+#EXTINF:-1, ST-TV: MGM+
+https://tvsen3.aynaott.com/Ah3tLAfA/index.m3u8
 #EXTINF:-1, ST-TV: MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1, ST-TV: MTV Live
@@ -139,8 +157,6 @@ http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1, ST-TV: Nat Geo Wild
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
-#EXTINF:-1, ST-TV: NBA TV
-http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1, ST-TV: NBC News NOW
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1, ST-TV: NBC Sports NOW
@@ -151,6 +167,8 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1, ST-TV: Newsmax2
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
+#EXTINF:-1, ST-TV: NFL Network
+https://tvsen6.aynaott.com/nfl/index.m3u8
 #EXTINF:-1, ST-TV: Nick Jr
 http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1, ST-TV: Nickelodeon
@@ -171,8 +189,6 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
 #EXTINF:-1, ST-TV: Reuters 60
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e4161629-c2c1-465c-bce8-b59e4885e7fd/3.m3u8
-#EXTINF:-1, ST-TV: Revolt
-http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 #EXTINF:-1, ST-TV: Roar
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1, ST-TV: Science Channel
@@ -203,7 +219,7 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: TBS West
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1, ST-TV: Telemundo
+#EXTINF:-1, ST-TV: Telemundo Internacional
 http://45.70.168.162:80/play/a01k/index.m3u8
 #EXTINF:-1, ST-TV: Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
@@ -215,14 +231,24 @@ https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/ind
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1, ST-TV: Travel Channel
+https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8
 #EXTINF:-1, ST-TV: truTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1, ST-TV: truTV West
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1, ST-TV: TSN 1
+https://tvsen5.aynaott.com/tsn1/index.m3u8
+#EXTINF:-1, ST-TV: TSN 2
+https://tvsen5.aynaott.com/tsn2/index.m3u8
+#EXTINF:-1, ST-TV: TSN 3
+https://tvsen5.aynaott.com/tsn3/index.m3u8
 #EXTINF:-1, ST-TV: TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1, ST-TV: Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1, ST-TV: USA Network
+https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
 #EXTINF:-1, ST-TV: VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1, ST-TV: VICE TV
