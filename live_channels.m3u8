@@ -95,6 +95,8 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 http://154.12.107.98:8000/play/a08s
 #EXTINF:-1, ST-TV: ESPN2
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+#EXTINF:-1, ST-TV: ESPNEWS
+http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1, ST-TV: ESPNU
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1, ST-TV: FanDuel Racing
@@ -115,6 +117,8 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1, ST-TV: FUSE
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1, ST-TV: FX
+https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8
 #EXTINF:-1, ST-TV: Galavisión
 https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 #EXTINF:-1, ST-TV: Game Show Central
@@ -163,6 +167,8 @@ http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1, ST-TV: Nat Geo Wild
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
+#EXTINF:-1, ST-TV: NBA TV
+http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1, ST-TV: NBC News NOW
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1, ST-TV: NBC Sports NOW
@@ -193,8 +199,12 @@ http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1, ST-TV: Real America's Voice
 https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
+#EXTINF:-1, ST-TV: Reelz
+https://cdn.katapy.io/cache/stream/reelztv/reelztv/playlist.m3u8
 #EXTINF:-1, ST-TV: Reuters 60
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e4161629-c2c1-465c-bce8-b59e4885e7fd/3.m3u8
+#EXTINF:-1, ST-TV: Revolt
+http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 #EXTINF:-1, ST-TV: Roar
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1, ST-TV: Science Channel
