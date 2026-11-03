@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, ST-TV: A&E TV
+#EXTINF:-1, ST-TV: A&E
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1, ST-TV: ABC News Live
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
@@ -23,21 +23,21 @@ http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1, ST-TV: BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#EXTINF:-1, ST-TV: BBC News
+https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/11e5fc40-66ff-4670-a4c5-bacf24feb307/5.m3u8
 #EXTINF:-1, ST-TV: BBC One
 http://176.65.153.4:4001/play/a08e/index.m3u8
-#EXTINF:-1, ST-TV: BBC World News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1, ST-TV: beIN Sports XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
-#EXTINF:-1, ST-TV: Bloomberg TV
+#EXTINF:-1, ST-TV: Bloomberg
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1, ST-TV: Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1, ST-TV: Bounce XL
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8e6ed441-f0dd-47af-804b-fc6a9c186932/4.m3u8
-#EXTINF:-1, ST-TV: Bravo TV
+#EXTINF:-1, ST-TV: Bravo
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1, ST-TV: Buzzr
 https://buzzrota-ono.amagi.tv/playlist720p.m3u8
@@ -67,7 +67,7 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 https://vid.hls.protv.ro/liveibu8/liveibu8_highw/index.m3u8?1
 #EXTINF:-1, ST-TV: Comedy Central
 https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8
-#EXTINF:-1, ST-TV: Comet TV
+#EXTINF:-1, ST-TV: Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1, ST-TV: Cooking Channel
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
@@ -85,7 +85,7 @@ http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 http://212.5.144.156:8080/discovery/index.m3u8
 #EXTINF:-1, ST-TV: Disney Channel
 http://212.5.144.156:8080/disney/index.m3u8
-#EXTINF:-1, ST-TV: Disney Jr
+#EXTINF:-1, ST-TV: Disney Junior
 https://tvsen5.aynaott.com/disney/index.m3u8
 #EXTINF:-1, ST-TV: E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
@@ -95,8 +95,6 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 http://154.12.107.98:8000/play/a08s
 #EXTINF:-1, ST-TV: ESPN2
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
-#EXTINF:-1, ST-TV: ESPNEWS
-http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1, ST-TV: ESPNU
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1, ST-TV: FanDuel Racing
@@ -115,7 +113,7 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1, ST-TV: Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1, ST-TV: FUSE
+#EXTINF:-1, ST-TV: Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1, ST-TV: FX
 https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8
@@ -145,6 +143,8 @@ https://tvsen3.aynaott.com/np3JstRE/index.m3u8
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1, ST-TV: IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1, ST-TV: INSP
+http://89.187.179.148:826/1368/gXwiagaXda/96965
 #EXTINF:-1, ST-TV: Investigation Discovery
 http://212.5.144.156:8080/id/index.m3u8
 #EXTINF:-1, ST-TV: ION TV
@@ -155,10 +155,10 @@ http://176.65.153.4:4004/play/a07n/index.m3u8
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 #EXTINF:-1, ST-TV: Living Faith TV
 https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/chunklist.m3u8?origin=1
+#EXTINF:-1, ST-TV: MeTV Toons
+https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8
 #EXTINF:-1, ST-TV: MGM+
 https://tvsen3.aynaott.com/Ah3tLAfA/index.m3u8
-#EXTINF:-1, ST-TV: Military History
-https://frndly.keralive.workers.dev/v1/manifest/840a24ccd7c75076211d060179b3ad0c64fdc6ca/militaryhistory_live_nr/b5743b11-8438-4785-9975-0ad41f09c0cd/1.m3u8
 #EXTINF:-1, ST-TV: MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1, ST-TV: MTV Live
@@ -199,19 +199,19 @@ http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1, ST-TV: Real America's Voice
 https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
-#EXTINF:-1, ST-TV: Reelz
+#EXTINF:-1, ST-TV: Reelz Channel
 https://cdn.katapy.io/cache/stream/reelztv/reelztv/playlist.m3u8
 #EXTINF:-1, ST-TV: Reuters 60
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e4161629-c2c1-465c-bce8-b59e4885e7fd/3.m3u8
 #EXTINF:-1, ST-TV: Revolt
 http://23.237.104.106:8080/USA_REVOLT/index.m3u8
-#EXTINF:-1, ST-TV: Roar
+#EXTINF:-1, ST-TV: ROAR TV
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1, ST-TV: Science Channel
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
 #EXTINF:-1, ST-TV: SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
-#EXTINF:-1, ST-TV: Showtime Family Zone
+#EXTINF:-1, ST-TV: Showtime FamilyZone
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1, ST-TV: Sky News
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/843b9d8c-6622-4872-a404-87fbbf02c829/4.m3u8
@@ -245,14 +245,16 @@ http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c7dbf944-ca35-4a39-a52a-5ecfbcc83dda/4.m3u8
 #EXTINF:-1, ST-TV: The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+#EXTINF:-1, ST-TV: The Travel Channel
+https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8
 #EXTINF:-1, ST-TV: The Weather Channel
 https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index.m3u8
+#EXTINF:-1, ST-TV: TLC
+http://41.205.93.154/TLC/index.m3u8
 #EXTINF:-1, ST-TV: TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1, ST-TV: Travel Channel
-https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8
 #EXTINF:-1, ST-TV: truTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1, ST-TV: truTV West
@@ -275,7 +277,7 @@ https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1, ST-TV: VICE TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
-#EXTINF:-1, ST-TV: WE Tv
+#EXTINF:-1, ST-TV: WE tv
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1, ST-TV: WeatherNation
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
