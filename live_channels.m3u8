@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, ST-TV: A&E
-http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1, ST-TV: ABC News Live
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
 #EXTINF:-1, ST-TV: ACC Digital Network
@@ -14,13 +12,13 @@ https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8
 #EXTINF:-1, ST-TV: Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1, ST-TV: AMC
-http://23.239.31.26:8989/amc/index.m3u8
+https://tvsen6.aynaott.com/amc/index.m3u8
 #EXTINF:-1, ST-TV: American Heroes Channel
 http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
 #EXTINF:-1, ST-TV: Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1, ST-TV: AXS TV
-http://23.239.31.26:8989/axstv/index.m3u8
+https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
 #EXTINF:-1, ST-TV: BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1, ST-TV: BBC News
@@ -37,8 +35,6 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1, ST-TV: Bounce XL
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8e6ed441-f0dd-47af-804b-fc6a9c186932/4.m3u8
-#EXTINF:-1, ST-TV: Bravo
-http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1, ST-TV: Buzzr
 https://buzzrota-ono.amagi.tv/playlist720p.m3u8
 #EXTINF:-1, ST-TV: CBC News Network
@@ -164,7 +160,7 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1, ST-TV: MTV Live
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1, ST-TV: Nat Geo
-http://198.58.104.90:8989/natgeo/index.m3u8
+http://212.5.144.156:8080/natgeo/index.m3u8
 #EXTINF:-1, ST-TV: Nat Geo Wild
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:-1, ST-TV: NBA TV
@@ -183,10 +179,6 @@ https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 https://tvsen6.aynaott.com/nfl/index.m3u8
 #EXTINF:-1, ST-TV: Nick Jr
 http://212.5.144.156:8080/nickjr/index.m3u8
-#EXTINF:-1, ST-TV: Nickelodeon
-http://198.58.104.90:8989/nickelodeon/index.m3u8
-#EXTINF:-1, ST-TV: Nicktoons
-http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1, ST-TV: One America News
 https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 #EXTINF:-1, ST-TV: Oprah Winfrey Network
@@ -249,8 +241,6 @@ https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8
 #EXTINF:-1, ST-TV: The Weather Channel
 https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index.m3u8
-#EXTINF:-1, ST-TV: TLC
-http://41.205.93.154/TLC/index.m3u8
 #EXTINF:-1, ST-TV: TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: TNT West
