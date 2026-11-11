@@ -18,13 +18,15 @@ http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
 #EXTINF:-1, ST-TV: Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1, ST-TV: AXS TV
-https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
+https://tvsen6.aynaott.com/axs/index.m3u8
 #EXTINF:-1, ST-TV: BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1, ST-TV: BBC News
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/11e5fc40-66ff-4670-a4c5-bacf24feb307/5.m3u8
 #EXTINF:-1, ST-TV: BBC One
 http://176.65.153.4:4001/play/a08e/index.m3u8
+#EXTINF:-1, ST-TV: beIN Sports USA
+https://tvsen6.aynaott.com/beinsports/index.m3u8
 #EXTINF:-1, ST-TV: beIN Sports XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Big Ten Network
@@ -35,6 +37,8 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1, ST-TV: Bounce XL
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8e6ed441-f0dd-47af-804b-fc6a9c186932/4.m3u8
+#EXTINF:-1, ST-TV: Bravo TV
+http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1, ST-TV: Buzzr
 https://buzzrota-ono.amagi.tv/playlist720p.m3u8
 #EXTINF:-1, ST-TV: CBC News Network
@@ -61,8 +65,6 @@ https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlis
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/90541a38-680a-49bd-b338-b360726f0422/3.m3u8
 #EXTINF:-1, ST-TV: CNN International
 https://vid.hls.protv.ro/liveibu8/liveibu8_highw/index.m3u8?1
-#EXTINF:-1, ST-TV: Comedy Central
-https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8
 #EXTINF:-1, ST-TV: Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1, ST-TV: Cooking Channel
@@ -83,6 +85,8 @@ http://212.5.144.156:8080/discovery/index.m3u8
 http://212.5.144.156:8080/disney/index.m3u8
 #EXTINF:-1, ST-TV: Disney Junior
 https://tvsen5.aynaott.com/disney/index.m3u8
+#EXTINF:-1, ST-TV: Disney XD
+http://89.187.179.148:826/1368/gXwiagaXda/1672
 #EXTINF:-1, ST-TV: E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1, ST-TV: ESPN
@@ -91,6 +95,8 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 http://154.12.107.98:8000/play/a08s
 #EXTINF:-1, ST-TV: ESPN2
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+#EXTINF:-1, ST-TV: ESPNEWS
+http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1, ST-TV: ESPNU
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1, ST-TV: FanDuel Racing
@@ -111,8 +117,6 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1, ST-TV: Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
-#EXTINF:-1, ST-TV: FX
-https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8
 #EXTINF:-1, ST-TV: Galavisión
 https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 #EXTINF:-1, ST-TV: Game Show Central
@@ -125,16 +129,12 @@ https://tvsen6.aynaott.com/golfchannel/index.m3u8
 https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8
 #EXTINF:-1, ST-TV: Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/bf3f1b07-6a0a-4e5b-8eb9-9ba0de5b9e45/5.m3u8
-#EXTINF:-1, ST-TV: HBO Hits
-https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
 #EXTINF:-1, ST-TV: Heartland
 https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8
 #EXTINF:-1, ST-TV: HGTV
-https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8
+http://89.187.179.148:826/1368/gXwiagaXda/1589
 #EXTINF:-1, ST-TV: History Channel
 http://212.5.144.156:8080/history/index.m3u8
-#EXTINF:-1, ST-TV: History Channel (Alt)
-https://tvsen3.aynaott.com/np3JstRE/index.m3u8
 #EXTINF:-1, ST-TV: HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1, ST-TV: IFC
@@ -149,10 +149,12 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 http://176.65.153.4:4004/play/a07n/index.m3u8
 #EXTINF:-1, ST-TV: Law & Crime
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
+#EXTINF:-1, ST-TV: Marquee Sports Network
+https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8
+#EXTINF:-1, ST-TV: MeTV
+http://89.187.179.148:826/1368/gXwiagaXda/38431
 #EXTINF:-1, ST-TV: MeTV Toons
 https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8
-#EXTINF:-1, ST-TV: MGM+
-https://tvsen3.aynaott.com/Ah3tLAfA/index.m3u8
 #EXTINF:-1, ST-TV: MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1, ST-TV: MTV Live
@@ -179,6 +181,8 @@ http://89.187.179.148:826/1368/gXwiagaXda/99458
 https://tvsen6.aynaott.com/nfl/index.m3u8
 #EXTINF:-1, ST-TV: Nick Jr
 http://212.5.144.156:8080/nickjr/index.m3u8
+#EXTINF:-1, ST-TV: Nicktoons
+http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1, ST-TV: Nicktoons
 http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1, ST-TV: One America News
@@ -239,12 +243,8 @@ http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c7dbf944-ca35-4a39-a52a-5ecfbcc83dda/4.m3u8
 #EXTINF:-1, ST-TV: The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-#EXTINF:-1, ST-TV: The Travel Channel
-https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8
 #EXTINF:-1, ST-TV: The Weather Channel
 https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index.m3u8
-#EXTINF:-1, ST-TV: TLC
-https://tvsen3.aynaott.com/EJagkNL2/index.m3u8
 #EXTINF:-1, ST-TV: TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ST-TV: TNT West
@@ -266,7 +266,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5
 #EXTINF:-1, ST-TV: Univision Network
 http://168.228.44.241:9997/play/a01n/index.m3u8
 #EXTINF:-1, ST-TV: USA Network
-https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
+https://tvsen6.aynaott.com/usa/index.m3u8
 #EXTINF:-1, ST-TV: VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1, ST-TV: VICE TV
