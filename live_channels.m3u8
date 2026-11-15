@@ -117,6 +117,12 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1, ST-TV: Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1, ST-TV: FX
+http://89.187.179.148:826/1368/gXwiagaXda/1364
+#EXTINF:-1, ST-TV: FX Movie Channel
+http://89.187.179.148:826/1368/gXwiagaXda/29312
+#EXTINF:-1, ST-TV: FXX
+http://89.187.179.148:826/1368/gXwiagaXda/1671
 #EXTINF:-1, ST-TV: Galavisión
 https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 #EXTINF:-1, ST-TV: Game Show Central
@@ -149,8 +155,6 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 http://176.65.153.4:4004/play/a07n/index.m3u8
 #EXTINF:-1, ST-TV: Law & Crime
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
-#EXTINF:-1, ST-TV: Marquee Sports Network
-https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8
 #EXTINF:-1, ST-TV: MeTV
 http://89.187.179.148:826/1368/gXwiagaXda/38431
 #EXTINF:-1, ST-TV: MeTV Toons
@@ -255,8 +259,6 @@ https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_356
 https://tvsen5.aynaott.com/tsn1/index.m3u8
 #EXTINF:-1, ST-TV: TSN 2
 https://tvsen5.aynaott.com/tsn2/index.m3u8
-#EXTINF:-1, ST-TV: TSN 3
-https://tvsen5.aynaott.com/tsn3/index.m3u8
 #EXTINF:-1, ST-TV: TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1, ST-TV: Turner Classic Movies
