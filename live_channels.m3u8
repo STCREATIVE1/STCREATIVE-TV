@@ -101,6 +101,8 @@ http://41.205.93.154/ESPNNEWS/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1, ST-TV: FanDuel Racing
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+#EXTINF:-1, ST-TV: FETV
+http://89.187.179.148:826/1368/gXwiagaXda/119032
 #EXTINF:-1, ST-TV: FloRacing 24/7
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: Food Network
@@ -223,6 +225,8 @@ http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 #EXTINF:-1, ST-TV: Spectrum News+
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/589e9668-62d2-4ace-b695-14ea749d4ec0/2.m3u8
+#EXTINF:-1, ST-TV: Starz
+http://89.187.179.148:826/1368/gXwiagaXda/1271
 #EXTINF:-1, ST-TV: Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:-1, ST-TV: Starz Encore Family
@@ -259,6 +263,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_356
 https://tvsen5.aynaott.com/tsn1/index.m3u8
 #EXTINF:-1, ST-TV: TSN 2
 https://tvsen5.aynaott.com/tsn2/index.m3u8
+#EXTINF:-1, ST-TV: TSN 3
+https://tvsen5.aynaott.com/tsn3/index.m3u8
 #EXTINF:-1, ST-TV: TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1, ST-TV: Turner Classic Movies
