@@ -55,6 +55,8 @@ https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1, ST-TV: Cinemax Hits
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1, ST-TV: Cinemax West
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 #EXTINF:-1, ST-TV: Circle Country
 https://circle-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1, ST-TV: CMT
